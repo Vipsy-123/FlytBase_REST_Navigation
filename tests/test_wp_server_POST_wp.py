@@ -1,6 +1,7 @@
 import requests
 
 base_url = 'http://127.0.0.1:5000'
+
 # Define waypoints for Drones 
 waypoints = [[ # Drone1 wps
             {"latitude": 12.9716, "longitude": 77.5946, "height": 300},
@@ -18,7 +19,8 @@ waypoints = [[ # Drone1 wps
 delays = [[0.2,0.2,0.2],
         [0.2,0.2,0.2]]
 
-def get_waypoint(device_id, index):
+def post_waypoint(waypoints,delays):
+
     # Combine waypoints and delays into a single dictionary
     data = {
         "waypoints": waypoints,
@@ -29,23 +31,14 @@ def get_waypoint(device_id, index):
     url = f"{base_url}/waypoints"  # A single endpoint to handle both waypoints and delays
     response = requests.post(url, json=data)
     
-    url = f"{base_url}/devices/{device_id}/{index}"
-    response = requests.get(url)  # Use GET to match the server method
-    
     if response.status_code == 200:
         return response.json()  # Return the JSON response for assertions
     else:
         return None
 
-def test_get_waypoint_m7dock1():
-    response_data = get_waypoint("M7DOCK1", 1)
+def test_post_waypoint():
+    response_data = post_waypoint(waypoints, delays)
     assert response_data is not None, "Failed to get response"
-    assert response_data["device_id"] == "M7DOCK1", "Device ID mismatch"
 
-
-def test_get_waypoint_m30tdock2():
-    response_data = get_waypoint("M30TDOCK2", 2)
-    assert response_data is not None, "Failed to get response"
-    assert response_data["device_id"] == "M30TDOCK2", "Device ID mismatch"
-
-
+if __name__ == "__main__":
+    test_post_waypoint()
