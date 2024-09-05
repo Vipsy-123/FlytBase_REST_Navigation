@@ -1,0 +1,1588 @@
+2024-09-05 12:02:59 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 12:02:59 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 12:02:59 - INFO -  * Restarting with stat
+2024-09-05 12:02:59 - WARNING -  * Debugger is active!
+2024-09-05 12:02:59 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:03:48 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 12:03:48 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 12:03:48 - INFO -  * Restarting with stat
+2024-09-05 12:03:48 - WARNING -  * Debugger is active!
+2024-09-05 12:03:48 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:03:58 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:03:58 - INFO -  * Restarting with stat
+2024-09-05 12:03:58 - WARNING -  * Debugger is active!
+2024-09-05 12:03:58 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:03:59 - INFO - 127.0.0.1 - - [05/Sep/2024 12:03:59] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 12:04:13 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:04:13 - INFO -  * Restarting with stat
+2024-09-05 12:04:13 - WARNING -  * Debugger is active!
+2024-09-05 12:04:13 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:04:14 - INFO - 127.0.0.1 - - [05/Sep/2024 12:04:14] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 12:04:26 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:04:26 - INFO -  * Restarting with stat
+2024-09-05 12:04:26 - WARNING -  * Debugger is active!
+2024-09-05 12:04:26 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:04:32 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:04:32 - INFO -  * Restarting with stat
+2024-09-05 12:04:33 - WARNING -  * Debugger is active!
+2024-09-05 12:04:33 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:05:13 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:05:13 - INFO -  * Restarting with stat
+2024-09-05 12:05:14 - WARNING -  * Debugger is active!
+2024-09-05 12:05:14 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:06:57 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:06:57 - INFO -  * Restarting with stat
+2024-09-05 12:06:57 - WARNING -  * Debugger is active!
+2024-09-05 12:06:57 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:06:59 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:06:59 - INFO -  * Restarting with stat
+2024-09-05 12:06:59 - WARNING -  * Debugger is active!
+2024-09-05 12:06:59 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:07:11 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:07:11 - INFO -  * Restarting with stat
+2024-09-05 12:07:11 - WARNING -  * Debugger is active!
+2024-09-05 12:07:11 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:07:17 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:07:17 - INFO -  * Restarting with stat
+2024-09-05 12:07:18 - WARNING -  * Debugger is active!
+2024-09-05 12:07:18 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:07:19 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:07:19 - INFO -  * Restarting with stat
+2024-09-05 12:07:19 - WARNING -  * Debugger is active!
+2024-09-05 12:07:19 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:07:24 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:07:24 - INFO -  * Restarting with stat
+2024-09-05 12:07:24 - WARNING -  * Debugger is active!
+2024-09-05 12:07:24 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:07:27 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:07:27 - INFO -  * Restarting with stat
+2024-09-05 12:07:28 - WARNING -  * Debugger is active!
+2024-09-05 12:07:28 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:07:34 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:07:34 - INFO -  * Restarting with stat
+2024-09-05 12:07:34 - WARNING -  * Debugger is active!
+2024-09-05 12:07:34 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:07:38 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:07:38 - INFO -  * Restarting with stat
+2024-09-05 12:07:38 - WARNING -  * Debugger is active!
+2024-09-05 12:07:38 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:07:42 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:07:42 - INFO -  * Restarting with stat
+2024-09-05 12:07:42 - WARNING -  * Debugger is active!
+2024-09-05 12:07:42 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:07:43 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:07:43 - INFO -  * Restarting with stat
+2024-09-05 12:07:43 - WARNING -  * Debugger is active!
+2024-09-05 12:07:43 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:07:47 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:07:47 - INFO -  * Restarting with stat
+2024-09-05 12:07:47 - WARNING -  * Debugger is active!
+2024-09-05 12:07:47 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:07:51 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:07:52 - INFO -  * Restarting with stat
+2024-09-05 12:07:52 - WARNING -  * Debugger is active!
+2024-09-05 12:07:52 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:07:55 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:07:55 - INFO -  * Restarting with stat
+2024-09-05 12:07:55 - WARNING -  * Debugger is active!
+2024-09-05 12:07:55 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:07:57 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:07:57 - INFO -  * Restarting with stat
+2024-09-05 12:07:57 - WARNING -  * Debugger is active!
+2024-09-05 12:07:57 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:08:01 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:08:02 - INFO -  * Restarting with stat
+2024-09-05 12:08:02 - WARNING -  * Debugger is active!
+2024-09-05 12:08:02 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:08:03 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:08:03 - INFO -  * Restarting with stat
+2024-09-05 12:08:03 - WARNING -  * Debugger is active!
+2024-09-05 12:08:03 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:08:06 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:08:06 - INFO -  * Restarting with stat
+2024-09-05 12:08:06 - WARNING -  * Debugger is active!
+2024-09-05 12:08:06 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:08:09 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:08:09 - INFO -  * Restarting with stat
+2024-09-05 12:08:09 - WARNING -  * Debugger is active!
+2024-09-05 12:08:09 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:08:21 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:08:21 - INFO -  * Restarting with stat
+2024-09-05 12:08:21 - WARNING -  * Debugger is active!
+2024-09-05 12:08:21 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:08:22 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:08:22 - INFO -  * Restarting with stat
+2024-09-05 12:08:22 - WARNING -  * Debugger is active!
+2024-09-05 12:08:22 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:08:24 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:08:24 - INFO -  * Restarting with stat
+2024-09-05 12:08:24 - WARNING -  * Debugger is active!
+2024-09-05 12:08:24 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:08:41 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:08:42 - INFO -  * Restarting with stat
+2024-09-05 12:08:42 - WARNING -  * Debugger is active!
+2024-09-05 12:08:42 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:08:43 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:08:43 - INFO -  * Restarting with stat
+2024-09-05 12:08:43 - WARNING -  * Debugger is active!
+2024-09-05 12:08:43 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:08:48 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:08:48 - INFO -  * Restarting with stat
+2024-09-05 12:08:48 - WARNING -  * Debugger is active!
+2024-09-05 12:08:48 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:08:54 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:08:54 - INFO -  * Restarting with stat
+2024-09-05 12:08:54 - WARNING -  * Debugger is active!
+2024-09-05 12:08:54 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:08:55 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:08:55 - INFO -  * Restarting with stat
+2024-09-05 12:08:55 - WARNING -  * Debugger is active!
+2024-09-05 12:08:55 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:09:02 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:09:02 - INFO -  * Restarting with stat
+2024-09-05 12:09:02 - WARNING -  * Debugger is active!
+2024-09-05 12:09:02 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:13:41 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:13:41 - INFO -  * Restarting with stat
+2024-09-05 12:13:41 - WARNING -  * Debugger is active!
+2024-09-05 12:13:41 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:13:46 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:13:46 - INFO -  * Restarting with stat
+2024-09-05 12:13:46 - WARNING -  * Debugger is active!
+2024-09-05 12:13:46 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:13:49 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:13:49 - INFO -  * Restarting with stat
+2024-09-05 12:13:49 - WARNING -  * Debugger is active!
+2024-09-05 12:13:49 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:13:53 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:13:53 - INFO -  * Restarting with stat
+2024-09-05 12:13:53 - WARNING -  * Debugger is active!
+2024-09-05 12:13:53 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:13:55 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:13:55 - INFO -  * Restarting with stat
+2024-09-05 12:13:56 - WARNING -  * Debugger is active!
+2024-09-05 12:13:56 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:13:59 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:13:59 - INFO -  * Restarting with stat
+2024-09-05 12:13:59 - WARNING -  * Debugger is active!
+2024-09-05 12:13:59 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:14:03 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:14:03 - INFO -  * Restarting with stat
+2024-09-05 12:14:03 - WARNING -  * Debugger is active!
+2024-09-05 12:14:03 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:14:27 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:14:27 - INFO -  * Restarting with stat
+2024-09-05 12:14:28 - WARNING -  * Debugger is active!
+2024-09-05 12:14:28 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:14:31 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:14:31 - INFO -  * Restarting with stat
+2024-09-05 12:14:31 - WARNING -  * Debugger is active!
+2024-09-05 12:14:31 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:14:46 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:14:46 - INFO -  * Restarting with stat
+2024-09-05 12:14:46 - WARNING -  * Debugger is active!
+2024-09-05 12:14:46 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:14:51 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:14:51 - INFO -  * Restarting with stat
+2024-09-05 12:14:51 - WARNING -  * Debugger is active!
+2024-09-05 12:14:51 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:14:53 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:14:53 - INFO -  * Restarting with stat
+2024-09-05 12:14:53 - WARNING -  * Debugger is active!
+2024-09-05 12:14:53 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:15:01 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:15:01 - INFO -  * Restarting with stat
+2024-09-05 12:15:01 - WARNING -  * Debugger is active!
+2024-09-05 12:15:01 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:15:10 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:15:10 - INFO -  * Restarting with stat
+2024-09-05 12:15:10 - WARNING -  * Debugger is active!
+2024-09-05 12:15:10 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:15:17 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:15:17 - INFO -  * Restarting with stat
+2024-09-05 12:15:17 - WARNING -  * Debugger is active!
+2024-09-05 12:15:17 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:17:17 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:17:17 - INFO -  * Restarting with stat
+2024-09-05 12:17:17 - WARNING -  * Debugger is active!
+2024-09-05 12:17:17 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:17:31 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:17:31 - INFO -  * Restarting with stat
+2024-09-05 12:17:31 - WARNING -  * Debugger is active!
+2024-09-05 12:17:31 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:17:39 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:17:39 - INFO -  * Restarting with stat
+2024-09-05 12:17:39 - WARNING -  * Debugger is active!
+2024-09-05 12:17:39 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:17:43 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:17:43 - INFO -  * Restarting with stat
+2024-09-05 12:17:43 - WARNING -  * Debugger is active!
+2024-09-05 12:17:43 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:17:47 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:17:47 - INFO -  * Restarting with stat
+2024-09-05 12:17:47 - WARNING -  * Debugger is active!
+2024-09-05 12:17:47 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:17:49 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:17:49 - INFO -  * Restarting with stat
+2024-09-05 12:17:49 - WARNING -  * Debugger is active!
+2024-09-05 12:17:49 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:17:55 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:17:55 - INFO -  * Restarting with stat
+2024-09-05 12:17:55 - WARNING -  * Debugger is active!
+2024-09-05 12:17:55 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:17:58 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:17:58 - INFO -  * Restarting with stat
+2024-09-05 12:17:58 - WARNING -  * Debugger is active!
+2024-09-05 12:17:58 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:18:00 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:18:00 - INFO -  * Restarting with stat
+2024-09-05 12:18:00 - WARNING -  * Debugger is active!
+2024-09-05 12:18:00 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:18:03 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:18:03 - INFO -  * Restarting with stat
+2024-09-05 12:18:03 - WARNING -  * Debugger is active!
+2024-09-05 12:18:03 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:18:35 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:18:35 - INFO -  * Restarting with stat
+2024-09-05 12:18:35 - WARNING -  * Debugger is active!
+2024-09-05 12:18:35 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:18:41 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:18:41 - INFO -  * Restarting with stat
+2024-09-05 12:18:41 - WARNING -  * Debugger is active!
+2024-09-05 12:18:41 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:18:42 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:18:42 - INFO -  * Restarting with stat
+2024-09-05 12:18:42 - WARNING -  * Debugger is active!
+2024-09-05 12:18:42 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:18:56 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:18:56 - INFO -  * Restarting with stat
+2024-09-05 12:18:56 - WARNING -  * Debugger is active!
+2024-09-05 12:18:56 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:18:58 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:18:58 - INFO -  * Restarting with stat
+2024-09-05 12:18:58 - WARNING -  * Debugger is active!
+2024-09-05 12:18:58 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:19:16 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:19:16 - INFO -  * Restarting with stat
+2024-09-05 12:19:16 - WARNING -  * Debugger is active!
+2024-09-05 12:19:16 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:19:23 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:19:23 - INFO -  * Restarting with stat
+2024-09-05 12:19:24 - WARNING -  * Debugger is active!
+2024-09-05 12:19:24 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:19:31 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:19:31 - INFO -  * Restarting with stat
+2024-09-05 12:19:31 - WARNING -  * Debugger is active!
+2024-09-05 12:19:31 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:19:33 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:19:33 - INFO -  * Restarting with stat
+2024-09-05 12:19:33 - WARNING -  * Debugger is active!
+2024-09-05 12:19:33 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:19:41 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:19:41 - INFO -  * Restarting with stat
+2024-09-05 12:19:41 - WARNING -  * Debugger is active!
+2024-09-05 12:19:41 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:20:27 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:20:27 - INFO -  * Restarting with stat
+2024-09-05 12:20:27 - WARNING -  * Debugger is active!
+2024-09-05 12:20:27 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:20:38 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:20:38 - INFO -  * Restarting with stat
+2024-09-05 12:20:38 - WARNING -  * Debugger is active!
+2024-09-05 12:20:38 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:20:49 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:20:49 - INFO -  * Restarting with stat
+2024-09-05 12:20:49 - WARNING -  * Debugger is active!
+2024-09-05 12:20:49 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:20:56 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:20:56 - INFO -  * Restarting with stat
+2024-09-05 12:20:56 - WARNING -  * Debugger is active!
+2024-09-05 12:20:56 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:25:48 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 12:25:48 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 12:25:48 - INFO -  * Restarting with stat
+2024-09-05 12:25:48 - WARNING -  * Debugger is active!
+2024-09-05 12:25:48 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:26:04 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:26:04 - INFO -  * Restarting with stat
+2024-09-05 12:26:04 - WARNING -  * Debugger is active!
+2024-09-05 12:26:04 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:26:08 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:26:08 - INFO -  * Restarting with stat
+2024-09-05 12:26:08 - WARNING -  * Debugger is active!
+2024-09-05 12:26:08 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:26:09 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:26:09 - INFO -  * Restarting with stat
+2024-09-05 12:26:10 - WARNING -  * Debugger is active!
+2024-09-05 12:26:10 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:26:12 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 12:26:12 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 12:26:12 - INFO -  * Restarting with stat
+2024-09-05 12:26:12 - WARNING -  * Debugger is active!
+2024-09-05 12:26:12 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:26:13 - INFO - 127.0.0.1 - - [05/Sep/2024 12:26:13] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 12:46:43 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 12:46:43 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 12:46:43 - INFO -  * Restarting with stat
+2024-09-05 12:46:43 - WARNING -  * Debugger is active!
+2024-09-05 12:46:43 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:46:45 - INFO - 127.0.0.1 - - [05/Sep/2024 12:46:45] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 12:47:00 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:47:00 - INFO -  * Restarting with stat
+2024-09-05 12:47:00 - WARNING -  * Debugger is active!
+2024-09-05 12:47:00 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:47:01 - INFO - 127.0.0.1 - - [05/Sep/2024 12:47:01] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 12:47:07 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:47:07 - INFO -  * Restarting with stat
+2024-09-05 12:47:07 - WARNING -  * Debugger is active!
+2024-09-05 12:47:07 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:47:30 - INFO - 127.0.0.1 - - [05/Sep/2024 12:47:30] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 12:47:34 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:47:34 - INFO -  * Restarting with stat
+2024-09-05 12:47:34 - WARNING -  * Debugger is active!
+2024-09-05 12:47:34 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:47:37 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:47:37 - INFO -  * Restarting with stat
+2024-09-05 12:47:38 - WARNING -  * Debugger is active!
+2024-09-05 12:47:38 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:47:44 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 12:47:44 - INFO -  * Restarting with stat
+2024-09-05 12:47:44 - WARNING -  * Debugger is active!
+2024-09-05 12:47:44 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:47:45 - INFO - 127.0.0.1 - - [05/Sep/2024 12:47:45] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 12:47:45 - ERROR - 0
+2024-09-05 12:47:45 - INFO - 127.0.0.1 - - [05/Sep/2024 12:47:45] "[35m[1mGET /devices/M7DOCK1/0 HTTP/1.1[0m" 500 -
+2024-09-05 12:47:45 - ERROR - 1
+2024-09-05 12:47:45 - INFO - 127.0.0.1 - - [05/Sep/2024 12:47:45] "[35m[1mGET /devices/M30TDOCK2/0 HTTP/1.1[0m" 500 -
+2024-09-05 12:48:27 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 12:48:27 - INFO -  * Restarting with stat
+2024-09-05 12:48:27 - WARNING -  * Debugger is active!
+2024-09-05 12:48:27 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:48:38 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 12:48:38 - INFO -  * Restarting with stat
+2024-09-05 12:48:38 - WARNING -  * Debugger is active!
+2024-09-05 12:48:38 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:48:44 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 12:48:44 - INFO -  * Restarting with stat
+2024-09-05 12:48:44 - WARNING -  * Debugger is active!
+2024-09-05 12:48:44 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:48:48 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 12:48:49 - INFO -  * Restarting with stat
+2024-09-05 12:48:49 - WARNING -  * Debugger is active!
+2024-09-05 12:48:49 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:49:25 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 12:49:25 - INFO -  * Restarting with stat
+2024-09-05 12:49:25 - WARNING -  * Debugger is active!
+2024-09-05 12:49:25 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:49:28 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 12:49:28 - INFO -  * Restarting with stat
+2024-09-05 12:56:00 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 12:56:00 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 12:56:00 - INFO -  * Restarting with stat
+2024-09-05 12:56:00 - WARNING -  * Debugger is active!
+2024-09-05 12:56:00 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:56:02 - INFO - 127.0.0.1 - - [05/Sep/2024 12:56:02] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 12:56:02 - ERROR - '1'
+2024-09-05 12:56:02 - INFO - 127.0.0.1 - - [05/Sep/2024 12:56:02] "[35m[1mGET /devices/M7DOCK1/0 HTTP/1.1[0m" 500 -
+2024-09-05 12:56:02 - ERROR - '2'
+2024-09-05 12:56:02 - INFO - 127.0.0.1 - - [05/Sep/2024 12:56:02] "[35m[1mGET /devices/M30TDOCK2/0 HTTP/1.1[0m" 500 -
+2024-09-05 12:57:02 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 12:57:02 - INFO -  * Restarting with stat
+2024-09-05 12:57:27 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 12:57:27 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 12:57:27 - INFO -  * Restarting with stat
+2024-09-05 12:57:27 - WARNING -  * Debugger is active!
+2024-09-05 12:57:27 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:57:28 - INFO - 127.0.0.1 - - [05/Sep/2024 12:57:28] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 12:57:28 - ERROR - '1'
+2024-09-05 12:57:28 - INFO - 127.0.0.1 - - [05/Sep/2024 12:57:28] "[35m[1mGET /devices/M7DOCK1/0 HTTP/1.1[0m" 500 -
+2024-09-05 12:57:28 - ERROR - '2'
+2024-09-05 12:57:28 - INFO - 127.0.0.1 - - [05/Sep/2024 12:57:28] "[35m[1mGET /devices/M30TDOCK2/0 HTTP/1.1[0m" 500 -
+2024-09-05 12:59:26 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 12:59:26 - INFO -  * Restarting with stat
+2024-09-05 12:59:26 - WARNING -  * Debugger is active!
+2024-09-05 12:59:26 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:59:31 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 12:59:31 - INFO -  * Restarting with stat
+2024-09-05 12:59:48 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 12:59:48 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 12:59:48 - INFO -  * Restarting with stat
+2024-09-05 12:59:48 - WARNING -  * Debugger is active!
+2024-09-05 12:59:48 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 12:59:49 - INFO - 127.0.0.1 - - [05/Sep/2024 12:59:49] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 12:59:49 - ERROR - '1'
+2024-09-05 12:59:49 - INFO - 127.0.0.1 - - [05/Sep/2024 12:59:49] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 12:59:49 - ERROR - 'M'
+2024-09-05 12:59:49 - INFO - 127.0.0.1 - - [05/Sep/2024 12:59:49] "GET /devices/M7DOCK1/1 HTTP/1.1" 200 -
+2024-09-05 12:59:49 - ERROR - '2'
+2024-09-05 12:59:49 - INFO - 127.0.0.1 - - [05/Sep/2024 12:59:49] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 12:59:49 - ERROR - 'M'
+2024-09-05 12:59:49 - INFO - 127.0.0.1 - - [05/Sep/2024 12:59:49] "GET /devices/M30TDOCK2/1 HTTP/1.1" 200 -
+2024-09-05 13:00:25 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:00:25 - INFO -  * Restarting with stat
+2024-09-05 13:00:25 - WARNING -  * Debugger is active!
+2024-09-05 13:00:25 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:00:30 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:00:30 - INFO -  * Restarting with stat
+2024-09-05 13:00:30 - WARNING -  * Debugger is active!
+2024-09-05 13:00:30 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:01:48 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:01:48 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:01:48 - INFO -  * Restarting with stat
+2024-09-05 13:01:48 - WARNING -  * Debugger is active!
+2024-09-05 13:01:48 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:01:49 - INFO - 127.0.0.1 - - [05/Sep/2024 13:01:49] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:01:49 - ERROR - '1'
+2024-09-05 13:01:49 - INFO - 127.0.0.1 - - [05/Sep/2024 13:01:49] "[35m[1mGET /devices/M7DOCK1/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:01:49 - ERROR - '2'
+2024-09-05 13:01:49 - INFO - 127.0.0.1 - - [05/Sep/2024 13:01:49] "[35m[1mGET /devices/M30TDOCK2/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:01:53 - INFO - 127.0.0.1 - - [05/Sep/2024 13:01:53] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:01:53 - ERROR - '1'
+2024-09-05 13:01:53 - INFO - 127.0.0.1 - - [05/Sep/2024 13:01:53] "[35m[1mGET /devices/M7DOCK1/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:01:53 - ERROR - '2'
+2024-09-05 13:01:53 - INFO - 127.0.0.1 - - [05/Sep/2024 13:01:53] "[35m[1mGET /devices/M30TDOCK2/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:01:56 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:01:56 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:01:56 - INFO -  * Restarting with stat
+2024-09-05 13:01:56 - WARNING -  * Debugger is active!
+2024-09-05 13:01:56 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:01:57 - INFO - 127.0.0.1 - - [05/Sep/2024 13:01:57] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:01:57 - ERROR - '1'
+2024-09-05 13:01:57 - INFO - 127.0.0.1 - - [05/Sep/2024 13:01:57] "[35m[1mGET /devices/M7DOCK1/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:01:57 - ERROR - '2'
+2024-09-05 13:01:57 - INFO - 127.0.0.1 - - [05/Sep/2024 13:01:57] "[35m[1mGET /devices/M30TDOCK2/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:03:37 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:03:37 - INFO -  * Restarting with stat
+2024-09-05 13:03:38 - WARNING -  * Debugger is active!
+2024-09-05 13:03:38 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:03:40 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:03:40 - INFO -  * Restarting with stat
+2024-09-05 13:04:25 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:04:25 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:04:25 - INFO -  * Restarting with stat
+2024-09-05 13:04:25 - WARNING -  * Debugger is active!
+2024-09-05 13:04:25 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:04:30 - INFO - 127.0.0.1 - - [05/Sep/2024 13:04:30] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:04:30 - ERROR - '1'
+2024-09-05 13:04:30 - INFO - 127.0.0.1 - - [05/Sep/2024 13:04:30] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:04:30 - ERROR - '2'
+2024-09-05 13:04:30 - INFO - 127.0.0.1 - - [05/Sep/2024 13:04:30] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:04:40 - INFO - 127.0.0.1 - - [05/Sep/2024 13:04:40] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:04:40 - ERROR - '1'
+2024-09-05 13:04:40 - INFO - 127.0.0.1 - - [05/Sep/2024 13:04:40] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:04:40 - ERROR - '2'
+2024-09-05 13:04:40 - INFO - 127.0.0.1 - - [05/Sep/2024 13:04:40] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:04:44 - INFO - 127.0.0.1 - - [05/Sep/2024 13:04:44] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:04:44 - ERROR - '1'
+2024-09-05 13:04:44 - INFO - 127.0.0.1 - - [05/Sep/2024 13:04:44] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:04:44 - ERROR - '2'
+2024-09-05 13:04:44 - INFO - 127.0.0.1 - - [05/Sep/2024 13:04:44] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:05:09 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:05:09 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:05:09 - INFO -  * Restarting with stat
+2024-09-05 13:05:09 - WARNING -  * Debugger is active!
+2024-09-05 13:05:09 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:05:12 - INFO - 127.0.0.1 - - [05/Sep/2024 13:05:12] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:05:12 - ERROR - '1'
+2024-09-05 13:05:12 - INFO - 127.0.0.1 - - [05/Sep/2024 13:05:12] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:05:12 - ERROR - '2'
+2024-09-05 13:05:12 - INFO - 127.0.0.1 - - [05/Sep/2024 13:05:12] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:05:31 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:05:31 - INFO -  * Restarting with stat
+2024-09-05 13:05:31 - WARNING -  * Debugger is active!
+2024-09-05 13:05:31 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:05:46 - INFO - 127.0.0.1 - - [05/Sep/2024 13:05:46] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:05:46 - ERROR - '1'
+2024-09-05 13:05:46 - INFO - 127.0.0.1 - - [05/Sep/2024 13:05:46] "[35m[1mGET /devices/M7DOCK1/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:05:46 - ERROR - '2'
+2024-09-05 13:05:46 - INFO - 127.0.0.1 - - [05/Sep/2024 13:05:46] "[35m[1mGET /devices/M30TDOCK2/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:05:51 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:05:51 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:05:51 - INFO -  * Restarting with stat
+2024-09-05 13:05:51 - WARNING -  * Debugger is active!
+2024-09-05 13:05:51 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:05:52 - INFO - 127.0.0.1 - - [05/Sep/2024 13:05:52] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:05:52 - ERROR - '1'
+2024-09-05 13:05:52 - INFO - 127.0.0.1 - - [05/Sep/2024 13:05:52] "[35m[1mGET /devices/M7DOCK1/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:05:52 - ERROR - '2'
+2024-09-05 13:05:52 - INFO - 127.0.0.1 - - [05/Sep/2024 13:05:52] "[35m[1mGET /devices/M30TDOCK2/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:06:17 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:06:17 - INFO -  * Restarting with stat
+2024-09-05 13:06:17 - WARNING -  * Debugger is active!
+2024-09-05 13:06:17 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:06:20 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:06:20 - INFO -  * Restarting with stat
+2024-09-05 13:06:20 - WARNING -  * Debugger is active!
+2024-09-05 13:06:20 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:06:26 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:06:26 - INFO -  * Restarting with stat
+2024-09-05 13:06:26 - WARNING -  * Debugger is active!
+2024-09-05 13:06:26 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:06:40 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:06:40 - INFO -  * Restarting with stat
+2024-09-05 13:06:40 - WARNING -  * Debugger is active!
+2024-09-05 13:06:40 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:06:41 - INFO - 127.0.0.1 - - [05/Sep/2024 13:06:41] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:06:41 - ERROR - '1'
+2024-09-05 13:06:41 - INFO - 127.0.0.1 - - [05/Sep/2024 13:06:41] "[35m[1mGET /devices/M7DOCK1/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:06:41 - ERROR - '2'
+2024-09-05 13:06:41 - INFO - 127.0.0.1 - - [05/Sep/2024 13:06:41] "[35m[1mGET /devices/M30TDOCK2/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:06:43 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:06:43 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:06:43 - INFO -  * Restarting with stat
+2024-09-05 13:06:43 - WARNING -  * Debugger is active!
+2024-09-05 13:06:43 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:06:44 - INFO - 127.0.0.1 - - [05/Sep/2024 13:06:44] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:06:44 - ERROR - '1'
+2024-09-05 13:06:44 - INFO - 127.0.0.1 - - [05/Sep/2024 13:06:44] "[35m[1mGET /devices/M7DOCK1/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:06:44 - ERROR - '2'
+2024-09-05 13:06:44 - INFO - 127.0.0.1 - - [05/Sep/2024 13:06:44] "[35m[1mGET /devices/M30TDOCK2/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:07:10 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:07:10 - INFO -  * Restarting with stat
+2024-09-05 13:07:10 - WARNING -  * Debugger is active!
+2024-09-05 13:07:10 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:07:12 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:07:12 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:07:12 - INFO -  * Restarting with stat
+2024-09-05 13:07:12 - WARNING -  * Debugger is active!
+2024-09-05 13:07:12 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:07:13 - INFO - 127.0.0.1 - - [05/Sep/2024 13:07:13] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:07:13 - ERROR - '1'
+2024-09-05 13:07:13 - INFO - 127.0.0.1 - - [05/Sep/2024 13:07:13] "[35m[1mGET /devices/M7DOCK1/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:07:13 - ERROR - '2'
+2024-09-05 13:07:13 - INFO - 127.0.0.1 - - [05/Sep/2024 13:07:13] "[35m[1mGET /devices/M30TDOCK2/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:07:27 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:07:27 - INFO -  * Restarting with stat
+2024-09-05 13:07:27 - WARNING -  * Debugger is active!
+2024-09-05 13:07:27 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:07:29 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:07:29 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:07:29 - INFO -  * Restarting with stat
+2024-09-05 13:07:30 - WARNING -  * Debugger is active!
+2024-09-05 13:07:30 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:07:31 - INFO - 127.0.0.1 - - [05/Sep/2024 13:07:31] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:07:31 - ERROR - '1'
+2024-09-05 13:07:31 - INFO - 127.0.0.1 - - [05/Sep/2024 13:07:31] "[35m[1mGET /devices/M7DOCK1/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:07:31 - ERROR - '2'
+2024-09-05 13:07:31 - INFO - 127.0.0.1 - - [05/Sep/2024 13:07:31] "[35m[1mGET /devices/M30TDOCK2/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:08:27 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:08:27 - INFO -  * Restarting with stat
+2024-09-05 13:08:27 - WARNING -  * Debugger is active!
+2024-09-05 13:08:27 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:08:37 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:08:37 - INFO -  * Restarting with stat
+2024-09-05 13:08:37 - WARNING -  * Debugger is active!
+2024-09-05 13:08:37 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:08:39 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:08:39 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:08:39 - INFO -  * Restarting with stat
+2024-09-05 13:08:39 - WARNING -  * Debugger is active!
+2024-09-05 13:08:39 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:08:40 - INFO - 127.0.0.1 - - [05/Sep/2024 13:08:40] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:08:40 - ERROR - '1'
+2024-09-05 13:08:40 - INFO - 127.0.0.1 - - [05/Sep/2024 13:08:40] "[35m[1mGET /devices/M7DOCK1/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:08:40 - ERROR - '2'
+2024-09-05 13:08:40 - INFO - 127.0.0.1 - - [05/Sep/2024 13:08:40] "[35m[1mGET /devices/M30TDOCK2/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:09:00 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:09:00 - INFO -  * Restarting with stat
+2024-09-05 13:09:00 - WARNING -  * Debugger is active!
+2024-09-05 13:09:00 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:09:01 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:09:01 - INFO -  * Restarting with stat
+2024-09-05 13:09:01 - WARNING -  * Debugger is active!
+2024-09-05 13:09:01 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:09:02 - INFO - 127.0.0.1 - - [05/Sep/2024 13:09:02] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:09:02 - ERROR - '1'
+2024-09-05 13:09:02 - INFO - 127.0.0.1 - - [05/Sep/2024 13:09:02] "[35m[1mGET /devices/M7DOCK1/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:09:02 - ERROR - '2'
+2024-09-05 13:09:02 - INFO - 127.0.0.1 - - [05/Sep/2024 13:09:02] "[35m[1mGET /devices/M30TDOCK2/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:09:04 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:09:04 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:09:04 - INFO -  * Restarting with stat
+2024-09-05 13:09:04 - WARNING -  * Debugger is active!
+2024-09-05 13:09:04 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:09:07 - INFO - 127.0.0.1 - - [05/Sep/2024 13:09:07] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:09:07 - ERROR - '1'
+2024-09-05 13:09:07 - INFO - 127.0.0.1 - - [05/Sep/2024 13:09:07] "[35m[1mGET /devices/M7DOCK1/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:09:07 - ERROR - '2'
+2024-09-05 13:09:07 - INFO - 127.0.0.1 - - [05/Sep/2024 13:09:07] "[35m[1mGET /devices/M30TDOCK2/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:09:24 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:09:24 - INFO -  * Restarting with stat
+2024-09-05 13:09:24 - WARNING -  * Debugger is active!
+2024-09-05 13:09:24 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:09:26 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:09:26 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:09:26 - INFO -  * Restarting with stat
+2024-09-05 13:09:26 - WARNING -  * Debugger is active!
+2024-09-05 13:09:26 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:09:28 - INFO - 127.0.0.1 - - [05/Sep/2024 13:09:28] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:09:28 - CRITICAL - '1'
+2024-09-05 13:09:28 - INFO - 127.0.0.1 - - [05/Sep/2024 13:09:28] "[35m[1mGET /devices/M7DOCK1/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:09:28 - CRITICAL - '2'
+2024-09-05 13:09:28 - INFO - 127.0.0.1 - - [05/Sep/2024 13:09:28] "[35m[1mGET /devices/M30TDOCK2/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:09:44 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:09:44 - INFO -  * Restarting with stat
+2024-09-05 13:09:44 - WARNING -  * Debugger is active!
+2024-09-05 13:09:44 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:10:04 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:10:04 - INFO -  * Restarting with stat
+2024-09-05 13:10:04 - WARNING -  * Debugger is active!
+2024-09-05 13:10:04 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:10:07 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:10:07 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:10:07 - INFO -  * Restarting with stat
+2024-09-05 13:10:07 - WARNING -  * Debugger is active!
+2024-09-05 13:10:07 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:10:08 - INFO - 127.0.0.1 - - [05/Sep/2024 13:10:08] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:10:08 - ERROR - '1'
+2024-09-05 13:10:08 - INFO - 127.0.0.1 - - [05/Sep/2024 13:10:08] "[35m[1mGET /devices/M7DOCK1/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:10:08 - ERROR - '2'
+2024-09-05 13:10:08 - INFO - 127.0.0.1 - - [05/Sep/2024 13:10:08] "[35m[1mGET /devices/M30TDOCK2/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:10:23 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:10:23 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:10:23 - INFO -  * Restarting with stat
+2024-09-05 13:10:23 - WARNING -  * Debugger is active!
+2024-09-05 13:10:23 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:10:24 - INFO - 127.0.0.1 - - [05/Sep/2024 13:10:24] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:10:24 - ERROR - '1'
+2024-09-05 13:10:24 - INFO - 127.0.0.1 - - [05/Sep/2024 13:10:24] "[35m[1mGET /devices/M7DOCK1/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:10:24 - ERROR - '2'
+2024-09-05 13:10:24 - INFO - 127.0.0.1 - - [05/Sep/2024 13:10:24] "[35m[1mGET /devices/M30TDOCK2/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:10:35 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:10:35 - INFO -  * Restarting with stat
+2024-09-05 13:10:40 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:10:40 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:10:40 - INFO -  * Restarting with stat
+2024-09-05 13:10:40 - WARNING -  * Debugger is active!
+2024-09-05 13:10:40 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:10:41 - INFO - 127.0.0.1 - - [05/Sep/2024 13:10:41] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:10:41 - ERROR - '1'
+2024-09-05 13:10:41 - INFO - 127.0.0.1 - - [05/Sep/2024 13:10:41] "[35m[1mGET /devices/M7DOCK1/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:10:41 - ERROR - '2'
+2024-09-05 13:10:41 - INFO - 127.0.0.1 - - [05/Sep/2024 13:10:41] "[35m[1mGET /devices/M30TDOCK2/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:10:54 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:10:54 - INFO -  * Restarting with stat
+2024-09-05 13:10:58 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:10:58 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:10:58 - INFO -  * Restarting with stat
+2024-09-05 13:10:58 - WARNING -  * Debugger is active!
+2024-09-05 13:10:58 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:10:59 - INFO - 127.0.0.1 - - [05/Sep/2024 13:10:59] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:10:59 - ERROR - '1'
+2024-09-05 13:10:59 - INFO - 127.0.0.1 - - [05/Sep/2024 13:10:59] "[35m[1mGET /devices/M7DOCK1/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:10:59 - ERROR - '2'
+2024-09-05 13:10:59 - INFO - 127.0.0.1 - - [05/Sep/2024 13:10:59] "[35m[1mGET /devices/M30TDOCK2/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:11:27 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:11:27 - INFO -  * Restarting with stat
+2024-09-05 13:11:27 - WARNING -  * Debugger is active!
+2024-09-05 13:11:27 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:11:31 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:11:31 - INFO -  * Restarting with stat
+2024-09-05 13:11:32 - WARNING -  * Debugger is active!
+2024-09-05 13:11:32 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:11:33 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:11:33 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:11:33 - INFO -  * Restarting with stat
+2024-09-05 13:11:33 - WARNING -  * Debugger is active!
+2024-09-05 13:11:33 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:11:34 - INFO - 127.0.0.1 - - [05/Sep/2024 13:11:34] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:11:34 - ERROR - 'M'
+2024-09-05 13:11:34 - INFO - 127.0.0.1 - - [05/Sep/2024 13:11:34] "[35m[1mGET /devices/M7DOCK1/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:11:34 - ERROR - 'M'
+2024-09-05 13:11:34 - INFO - 127.0.0.1 - - [05/Sep/2024 13:11:34] "[35m[1mGET /devices/M30TDOCK2/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:11:43 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:11:43 - INFO -  * Restarting with stat
+2024-09-05 13:11:44 - WARNING -  * Debugger is active!
+2024-09-05 13:11:44 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:11:47 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:11:47 - INFO -  * Restarting with stat
+2024-09-05 13:11:47 - WARNING -  * Debugger is active!
+2024-09-05 13:11:47 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:11:51 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:11:51 - INFO -  * Restarting with stat
+2024-09-05 13:11:51 - WARNING -  * Debugger is active!
+2024-09-05 13:11:51 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:12:01 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:12:01 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:12:01 - INFO -  * Restarting with stat
+2024-09-05 13:12:01 - WARNING -  * Debugger is active!
+2024-09-05 13:12:01 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:12:02 - INFO - 127.0.0.1 - - [05/Sep/2024 13:12:02] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:12:02 - ERROR - 'M'
+2024-09-05 13:12:02 - INFO - 127.0.0.1 - - [05/Sep/2024 13:12:02] "[35m[1mGET /devices/M7DOCK1/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:12:02 - ERROR - 'M'
+2024-09-05 13:12:02 - INFO - 127.0.0.1 - - [05/Sep/2024 13:12:02] "[35m[1mGET /devices/M30TDOCK2/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:15:13 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:15:13 - INFO -  * Restarting with stat
+2024-09-05 13:15:19 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:15:19 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:15:19 - INFO -  * Restarting with stat
+2024-09-05 13:15:19 - WARNING -  * Debugger is active!
+2024-09-05 13:15:19 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:15:20 - INFO - 127.0.0.1 - - [05/Sep/2024 13:15:20] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:15:20 - ERROR - 'M'
+2024-09-05 13:15:20 - INFO - 127.0.0.1 - - [05/Sep/2024 13:15:20] "[35m[1mGET /devices/M7DOCK1/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:15:20 - ERROR - 'M'
+2024-09-05 13:15:20 - INFO - 127.0.0.1 - - [05/Sep/2024 13:15:20] "[35m[1mGET /devices/M30TDOCK2/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:15:40 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:15:40 - INFO -  * Restarting with stat
+2024-09-05 13:15:40 - WARNING -  * Debugger is active!
+2024-09-05 13:15:40 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:15:44 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:15:44 - INFO -  * Restarting with stat
+2024-09-05 13:15:46 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:15:46 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:15:46 - INFO -  * Restarting with stat
+2024-09-05 13:15:46 - WARNING -  * Debugger is active!
+2024-09-05 13:15:46 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:15:47 - INFO - 127.0.0.1 - - [05/Sep/2024 13:15:47] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:15:47 - ERROR - 'float' object has no attribute 'type'
+2024-09-05 13:15:47 - INFO - 127.0.0.1 - - [05/Sep/2024 13:15:47] "[35m[1mGET /devices/M7DOCK1/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:15:47 - ERROR - 'float' object has no attribute 'type'
+2024-09-05 13:15:47 - INFO - 127.0.0.1 - - [05/Sep/2024 13:15:47] "[35m[1mGET /devices/M30TDOCK2/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:16:06 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:16:06 - INFO -  * Restarting with stat
+2024-09-05 13:16:06 - WARNING -  * Debugger is active!
+2024-09-05 13:16:06 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:16:07 - INFO - 127.0.0.1 - - [05/Sep/2024 13:16:07] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:16:07 - ERROR - 'M'
+2024-09-05 13:16:07 - INFO - 127.0.0.1 - - [05/Sep/2024 13:16:07] "[35m[1mGET /devices/M7DOCK1/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:16:07 - ERROR - 'M'
+2024-09-05 13:16:07 - INFO - 127.0.0.1 - - [05/Sep/2024 13:16:07] "[35m[1mGET /devices/M30TDOCK2/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:16:09 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:16:09 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:16:09 - INFO -  * Restarting with stat
+2024-09-05 13:16:09 - WARNING -  * Debugger is active!
+2024-09-05 13:16:09 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:16:10 - INFO - 127.0.0.1 - - [05/Sep/2024 13:16:10] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:16:10 - ERROR - 'M'
+2024-09-05 13:16:10 - INFO - 127.0.0.1 - - [05/Sep/2024 13:16:10] "[35m[1mGET /devices/M7DOCK1/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:16:10 - ERROR - 'M'
+2024-09-05 13:16:10 - INFO - 127.0.0.1 - - [05/Sep/2024 13:16:10] "[35m[1mGET /devices/M30TDOCK2/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:16:35 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:16:35 - INFO -  * Restarting with stat
+2024-09-05 13:16:48 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:16:48 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:16:48 - INFO -  * Restarting with stat
+2024-09-05 13:16:49 - WARNING -  * Debugger is active!
+2024-09-05 13:16:49 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:16:50 - INFO - 127.0.0.1 - - [05/Sep/2024 13:16:50] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:16:50 - ERROR - 'M'
+2024-09-05 13:16:50 - INFO - 127.0.0.1 - - [05/Sep/2024 13:16:50] "[35m[1mGET /devices/M7DOCK1/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:16:50 - ERROR - 'M'
+2024-09-05 13:16:50 - INFO - 127.0.0.1 - - [05/Sep/2024 13:16:50] "[35m[1mGET /devices/M30TDOCK2/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:17:01 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:17:01 - INFO -  * Restarting with stat
+2024-09-05 13:17:13 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:17:13 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:17:13 - INFO -  * Restarting with stat
+2024-09-05 13:17:13 - WARNING -  * Debugger is active!
+2024-09-05 13:17:13 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:17:15 - INFO - 127.0.0.1 - - [05/Sep/2024 13:17:15] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:17:15 - INFO - 127.0.0.1 - - [05/Sep/2024 13:17:15] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:17:15 - INFO - 127.0.0.1 - - [05/Sep/2024 13:17:15] "GET /devices/M7DOCK1/1 HTTP/1.1" 200 -
+2024-09-05 13:17:15 - INFO - 127.0.0.1 - - [05/Sep/2024 13:17:15] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:17:15 - INFO - 127.0.0.1 - - [05/Sep/2024 13:17:15] "GET /devices/M30TDOCK2/1 HTTP/1.1" 200 -
+2024-09-05 13:17:24 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:17:24 - INFO -  * Restarting with stat
+2024-09-05 13:17:24 - WARNING -  * Debugger is active!
+2024-09-05 13:17:24 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:17:29 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:17:29 - INFO -  * Restarting with stat
+2024-09-05 13:17:29 - WARNING -  * Debugger is active!
+2024-09-05 13:17:29 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:17:34 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:17:34 - INFO -  * Restarting with stat
+2024-09-05 13:17:34 - WARNING -  * Debugger is active!
+2024-09-05 13:17:34 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:17:35 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:17:35 - INFO -  * Restarting with stat
+2024-09-05 13:17:35 - WARNING -  * Debugger is active!
+2024-09-05 13:17:35 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:17:37 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:17:37 - INFO -  * Restarting with stat
+2024-09-05 13:17:37 - WARNING -  * Debugger is active!
+2024-09-05 13:17:37 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:18:00 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:18:00 - INFO -  * Restarting with stat
+2024-09-05 13:18:00 - WARNING -  * Debugger is active!
+2024-09-05 13:18:00 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:18:04 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:18:04 - INFO -  * Restarting with stat
+2024-09-05 13:18:04 - WARNING -  * Debugger is active!
+2024-09-05 13:18:04 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:18:17 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:18:17 - INFO -  * Restarting with stat
+2024-09-05 13:18:17 - WARNING -  * Debugger is active!
+2024-09-05 13:18:17 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:18:20 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:18:20 - INFO -  * Restarting with stat
+2024-09-05 13:18:20 - WARNING -  * Debugger is active!
+2024-09-05 13:18:20 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:18:22 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:18:22 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:18:22 - INFO -  * Restarting with stat
+2024-09-05 13:18:22 - WARNING -  * Debugger is active!
+2024-09-05 13:18:22 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:18:23 - INFO - 127.0.0.1 - - [05/Sep/2024 13:18:23] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:18:23 - INFO - 127.0.0.1 - - [05/Sep/2024 13:18:23] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:18:23 - INFO - 127.0.0.1 - - [05/Sep/2024 13:18:23] "GET /devices/M7DOCK1/1 HTTP/1.1" 200 -
+2024-09-05 13:18:23 - INFO - 127.0.0.1 - - [05/Sep/2024 13:18:23] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:18:23 - INFO - 127.0.0.1 - - [05/Sep/2024 13:18:23] "GET /devices/M30TDOCK2/1 HTTP/1.1" 200 -
+2024-09-05 13:18:56 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:18:56 - INFO -  * Restarting with stat
+2024-09-05 13:18:56 - WARNING -  * Debugger is active!
+2024-09-05 13:18:56 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:18:59 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:18:59 - INFO -  * Restarting with stat
+2024-09-05 13:18:59 - WARNING -  * Debugger is active!
+2024-09-05 13:18:59 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:19:03 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:19:03 - INFO -  * Restarting with stat
+2024-09-05 13:19:03 - WARNING -  * Debugger is active!
+2024-09-05 13:19:03 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:19:06 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:19:06 - INFO -  * Restarting with stat
+2024-09-05 13:19:06 - WARNING -  * Debugger is active!
+2024-09-05 13:19:06 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:19:10 - INFO - 127.0.0.1 - - [05/Sep/2024 13:19:10] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:19:10 - INFO - 127.0.0.1 - - [05/Sep/2024 13:19:10] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:19:10 - INFO - 127.0.0.1 - - [05/Sep/2024 13:19:10] "GET /devices/M7DOCK1/1 HTTP/1.1" 200 -
+2024-09-05 13:19:10 - INFO - 127.0.0.1 - - [05/Sep/2024 13:19:10] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:19:10 - INFO - 127.0.0.1 - - [05/Sep/2024 13:19:10] "GET /devices/M30TDOCK2/1 HTTP/1.1" 200 -
+2024-09-05 13:19:13 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:19:13 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:19:13 - INFO -  * Restarting with stat
+2024-09-05 13:19:13 - WARNING -  * Debugger is active!
+2024-09-05 13:19:13 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:19:15 - INFO - 127.0.0.1 - - [05/Sep/2024 13:19:15] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:19:15 - INFO - 127.0.0.1 - - [05/Sep/2024 13:19:15] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:19:15 - INFO - 127.0.0.1 - - [05/Sep/2024 13:19:15] "GET /devices/M7DOCK1/1 HTTP/1.1" 200 -
+2024-09-05 13:19:15 - INFO - 127.0.0.1 - - [05/Sep/2024 13:19:15] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:19:15 - INFO - 127.0.0.1 - - [05/Sep/2024 13:19:15] "GET /devices/M30TDOCK2/1 HTTP/1.1" 200 -
+2024-09-05 13:24:48 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:24:48 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:24:48 - INFO -  * Restarting with stat
+2024-09-05 13:24:48 - WARNING -  * Debugger is active!
+2024-09-05 13:24:48 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:25:28 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:25:28 - INFO -  * Restarting with stat
+2024-09-05 13:25:28 - WARNING -  * Debugger is active!
+2024-09-05 13:25:28 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:25:31 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:25:31 - INFO -  * Restarting with stat
+2024-09-05 13:25:31 - WARNING -  * Debugger is active!
+2024-09-05 13:25:31 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:25:37 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:25:37 - INFO -  * Restarting with stat
+2024-09-05 13:25:37 - WARNING -  * Debugger is active!
+2024-09-05 13:25:37 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:25:38 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:25:38 - INFO -  * Restarting with stat
+2024-09-05 13:25:38 - WARNING -  * Debugger is active!
+2024-09-05 13:25:38 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:25:40 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:25:40 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:25:40 - INFO -  * Restarting with stat
+2024-09-05 13:25:41 - WARNING -  * Debugger is active!
+2024-09-05 13:25:41 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:25:42 - INFO - 127.0.0.1 - - [05/Sep/2024 13:25:42] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:25:42 - INFO - 127.0.0.1 - - [05/Sep/2024 13:25:42] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:25:42 - INFO - 127.0.0.1 - - [05/Sep/2024 13:25:42] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:26:10 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:26:10 - INFO -  * Restarting with stat
+2024-09-05 13:26:10 - WARNING -  * Debugger is active!
+2024-09-05 13:26:10 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:26:14 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:26:14 - INFO -  * Restarting with stat
+2024-09-05 13:26:14 - WARNING -  * Debugger is active!
+2024-09-05 13:26:14 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:26:18 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:26:18 - INFO -  * Restarting with stat
+2024-09-05 13:26:18 - WARNING -  * Debugger is active!
+2024-09-05 13:26:18 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:26:24 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:26:24 - INFO -  * Restarting with stat
+2024-09-05 13:26:24 - WARNING -  * Debugger is active!
+2024-09-05 13:26:24 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:26:28 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:26:28 - INFO -  * Restarting with stat
+2024-09-05 13:26:28 - WARNING -  * Debugger is active!
+2024-09-05 13:26:28 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:26:34 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:26:34 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:26:34 - INFO -  * Restarting with stat
+2024-09-05 13:26:34 - WARNING -  * Debugger is active!
+2024-09-05 13:26:34 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:26:36 - INFO - 127.0.0.1 - - [05/Sep/2024 13:26:36] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:26:36 - INFO - 127.0.0.1 - - [05/Sep/2024 13:26:36] "[35m[1mGET /devices/M7DOCK1/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:26:36 - INFO - 127.0.0.1 - - [05/Sep/2024 13:26:36] "[35m[1mGET /devices/M30TDOCK2/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:27:47 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:27:47 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:27:47 - INFO -  * Restarting with stat
+2024-09-05 13:27:47 - WARNING -  * Debugger is active!
+2024-09-05 13:27:47 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:27:49 - INFO - 127.0.0.1 - - [05/Sep/2024 13:27:49] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:27:49 - INFO - 127.0.0.1 - - [05/Sep/2024 13:27:49] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:27:49 - INFO - 127.0.0.1 - - [05/Sep/2024 13:27:49] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:28:07 - INFO - 127.0.0.1 - - [05/Sep/2024 13:28:07] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:28:07 - INFO - 127.0.0.1 - - [05/Sep/2024 13:28:07] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:28:07 - INFO - 127.0.0.1 - - [05/Sep/2024 13:28:07] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:32:03 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:32:03 - INFO -  * Restarting with stat
+2024-09-05 13:32:03 - WARNING -  * Debugger is active!
+2024-09-05 13:32:03 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:32:09 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:32:09 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:32:09 - INFO -  * Restarting with stat
+2024-09-05 13:32:09 - WARNING -  * Debugger is active!
+2024-09-05 13:32:09 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:32:11 - INFO - 127.0.0.1 - - [05/Sep/2024 13:32:11] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:32:11 - INFO - 127.0.0.1 - - [05/Sep/2024 13:32:11] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:32:11 - INFO - 127.0.0.1 - - [05/Sep/2024 13:32:11] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:32:33 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:32:33 - INFO -  * Restarting with stat
+2024-09-05 13:32:33 - WARNING -  * Debugger is active!
+2024-09-05 13:32:33 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:32:34 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:32:34 - INFO -  * Restarting with stat
+2024-09-05 13:32:34 - WARNING -  * Debugger is active!
+2024-09-05 13:32:34 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:32:50 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:32:50 - INFO -  * Restarting with stat
+2024-09-05 13:32:50 - WARNING -  * Debugger is active!
+2024-09-05 13:32:50 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:32:53 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:32:53 - INFO -  * Restarting with stat
+2024-09-05 13:32:53 - WARNING -  * Debugger is active!
+2024-09-05 13:32:53 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:32:56 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:32:56 - INFO -  * Restarting with stat
+2024-09-05 13:32:56 - WARNING -  * Debugger is active!
+2024-09-05 13:32:56 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:32:59 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:32:59 - INFO -  * Restarting with stat
+2024-09-05 13:33:00 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:33:00 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:33:00 - INFO -  * Restarting with stat
+2024-09-05 13:33:00 - WARNING -  * Debugger is active!
+2024-09-05 13:33:00 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:33:01 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:01] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:33:01 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:01] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:33:01 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:01] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:33:21 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:33:21 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:33:21 - INFO -  * Restarting with stat
+2024-09-05 13:33:21 - WARNING -  * Debugger is active!
+2024-09-05 13:33:21 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:33:22 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:22] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:33:22 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:22] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:33:22 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:22] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:33:37 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:37] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:33:37 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:37] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:33:37 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:37] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:33:38 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:38] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:33:38 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:38] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:33:38 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:38] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:33:39 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:39] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:33:39 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:39] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:33:39 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:39] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:33:39 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:39] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:33:39 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:39] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:33:39 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:39] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:33:40 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:40] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:33:40 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:40] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:33:40 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:40] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:33:40 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:40] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:33:40 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:40] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:33:40 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:40] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:33:40 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:40] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:33:40 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:40] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:33:40 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:40] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:33:41 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:41] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:33:41 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:41] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:33:41 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:41] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:33:41 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:41] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:33:41 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:41] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:33:41 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:41] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:33:41 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:41] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:33:41 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:41] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:33:41 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:41] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:33:41 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:41] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:33:41 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:41] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:33:41 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:41] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:33:42 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:42] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:33:42 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:42] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:33:42 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:42] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:33:42 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:42] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:33:42 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:42] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:33:42 - INFO - 127.0.0.1 - - [05/Sep/2024 13:33:42] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:34:03 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:34:03 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:34:03 - INFO -  * Restarting with stat
+2024-09-05 13:34:03 - WARNING -  * Debugger is active!
+2024-09-05 13:34:03 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:34:05 - INFO - 127.0.0.1 - - [05/Sep/2024 13:34:05] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:34:05 - INFO - 127.0.0.1 - - [05/Sep/2024 13:34:05] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:34:05 - INFO - 127.0.0.1 - - [05/Sep/2024 13:34:05] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:34:31 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:34:31 - INFO -  * Restarting with stat
+2024-09-05 13:34:31 - WARNING -  * Debugger is active!
+2024-09-05 13:34:31 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:34:41 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:34:41 - INFO -  * Restarting with stat
+2024-09-05 13:34:41 - WARNING -  * Debugger is active!
+2024-09-05 13:34:41 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:34:43 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:34:43 - INFO -  * Restarting with stat
+2024-09-05 13:35:23 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:35:23 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:35:23 - INFO -  * Restarting with stat
+2024-09-05 13:35:23 - WARNING -  * Debugger is active!
+2024-09-05 13:35:23 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:35:25 - INFO - 127.0.0.1 - - [05/Sep/2024 13:35:25] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:35:25 - INFO - Sending Waypoint for M7DOCK1 with lat : {'latitude': 12.9716, 'longitude': 77.5946, 'height': 300}
+2024-09-05 13:35:25 - INFO - 127.0.0.1 - - [05/Sep/2024 13:35:25] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:35:25 - INFO - Sending Waypoint for M30TDOCK2 with lat : {'latitude': 12.9716, 'longitude': 77.5946, 'height': 300}
+2024-09-05 13:35:25 - INFO - 127.0.0.1 - - [05/Sep/2024 13:35:25] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:35:35 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:35:35 - INFO -  * Restarting with stat
+2024-09-05 13:36:12 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:36:12 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:36:12 - INFO -  * Restarting with stat
+2024-09-05 13:36:12 - WARNING -  * Debugger is active!
+2024-09-05 13:36:12 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:36:13 - INFO - 127.0.0.1 - - [05/Sep/2024 13:36:13] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:36:13 - ERROR - 0
+2024-09-05 13:36:13 - INFO - 127.0.0.1 - - [05/Sep/2024 13:36:13] "[35m[1mGET /devices/M7DOCK1/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:36:13 - ERROR - 0
+2024-09-05 13:36:13 - INFO - 127.0.0.1 - - [05/Sep/2024 13:36:13] "[35m[1mGET /devices/M30TDOCK2/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:39:35 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:39:35 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:39:35 - INFO -  * Restarting with stat
+2024-09-05 13:39:35 - WARNING -  * Debugger is active!
+2024-09-05 13:39:35 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:39:36 - INFO - 127.0.0.1 - - [05/Sep/2024 13:39:36] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:39:36 - ERROR - 0
+2024-09-05 13:39:36 - INFO - 127.0.0.1 - - [05/Sep/2024 13:39:36] "[35m[1mGET /devices/M7DOCK1/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:39:36 - ERROR - 0
+2024-09-05 13:39:36 - INFO - 127.0.0.1 - - [05/Sep/2024 13:39:36] "[35m[1mGET /devices/M30TDOCK2/0 HTTP/1.1[0m" 500 -
+2024-09-05 13:39:57 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:39:57 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:39:57 - INFO -  * Restarting with stat
+2024-09-05 13:39:57 - WARNING -  * Debugger is active!
+2024-09-05 13:39:57 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:39:58 - INFO - 127.0.0.1 - - [05/Sep/2024 13:39:58] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:39:58 - INFO - Sending Waypoint for M7DOCK1 with lat : {'latitude': 12.9716, 'longitude': 77.5946, 'height': 300}
+2024-09-05 13:39:58 - INFO - 127.0.0.1 - - [05/Sep/2024 13:39:58] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:39:58 - INFO - Sending Waypoint for M30TDOCK2 with lat : {'latitude': 12.9716, 'longitude': 77.5946, 'height': 300}
+2024-09-05 13:39:58 - INFO - 127.0.0.1 - - [05/Sep/2024 13:39:58] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:40:28 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:40:28 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:40:28 - INFO -  * Restarting with stat
+2024-09-05 13:40:28 - WARNING -  * Debugger is active!
+2024-09-05 13:40:28 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:40:29 - INFO - 127.0.0.1 - - [05/Sep/2024 13:40:29] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:40:29 - INFO - Sending Waypoint for M7DOCK1 with lat : [{'latitude': 12.9716, 'longitude': 77.5946, 'height': 300}, {'latitude': 28.7041, 'longitude': 77.1025, 'height': 200}, {'latitude': 19.076, 'longitude': 72.8777, 'height': 150}]
+2024-09-05 13:40:29 - INFO - 127.0.0.1 - - [05/Sep/2024 13:40:29] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:40:29 - INFO - Sending Waypoint for M30TDOCK2 with lat : [{'latitude': 12.9716, 'longitude': 77.5946, 'height': 300}, {'latitude': 28.7041, 'longitude': 77.1025, 'height': 200}, {'latitude': 19.076, 'longitude': 72.8777, 'height': 150}]
+2024-09-05 13:40:29 - INFO - 127.0.0.1 - - [05/Sep/2024 13:40:29] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:40:31 - INFO - 127.0.0.1 - - [05/Sep/2024 13:40:31] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:40:31 - INFO - Sending Waypoint for M7DOCK1 with lat : [{'latitude': 12.9716, 'longitude': 77.5946, 'height': 300}, {'latitude': 28.7041, 'longitude': 77.1025, 'height': 200}, {'latitude': 19.076, 'longitude': 72.8777, 'height': 150}]
+2024-09-05 13:40:31 - INFO - 127.0.0.1 - - [05/Sep/2024 13:40:31] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:40:31 - INFO - Sending Waypoint for M30TDOCK2 with lat : [{'latitude': 12.9716, 'longitude': 77.5946, 'height': 300}, {'latitude': 28.7041, 'longitude': 77.1025, 'height': 200}, {'latitude': 19.076, 'longitude': 72.8777, 'height': 150}]
+2024-09-05 13:40:31 - INFO - 127.0.0.1 - - [05/Sep/2024 13:40:31] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:42:02 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:42:02 - INFO -  * Restarting with stat
+2024-09-05 13:42:02 - WARNING -  * Debugger is active!
+2024-09-05 13:42:02 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:42:16 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:42:16 - INFO -  * Restarting with stat
+2024-09-05 13:42:16 - WARNING -  * Debugger is active!
+2024-09-05 13:42:16 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:42:18 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:42:18 - INFO -  * Restarting with stat
+2024-09-05 13:42:30 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:42:30 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:42:30 - INFO -  * Restarting with stat
+2024-09-05 13:42:30 - WARNING -  * Debugger is active!
+2024-09-05 13:42:30 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:42:32 - INFO - 127.0.0.1 - - [05/Sep/2024 13:42:32] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:42:32 - INFO - Sending Waypoint for M7DOCK1 with lat : [{'latitude': 12.9716, 'longitude': 77.5946, 'height': 300}, {'latitude': 28.7041, 'longitude': 77.1025, 'height': 200}, {'latitude': 19.076, 'longitude': 72.8777, 'height': 150}]
+2024-09-05 13:42:32 - INFO - 127.0.0.1 - - [05/Sep/2024 13:42:32] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:42:32 - INFO - Sending Waypoint for M30TDOCK2 with lat : [{'latitude': 12.9716, 'longitude': 77.5946, 'height': 300}, {'latitude': 28.7041, 'longitude': 77.1025, 'height': 200}, {'latitude': 19.076, 'longitude': 72.8777, 'height': 150}]
+2024-09-05 13:42:32 - INFO - 127.0.0.1 - - [05/Sep/2024 13:42:32] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:42:44 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:42:44 - INFO -  * Restarting with stat
+2024-09-05 13:42:44 - WARNING -  * Debugger is active!
+2024-09-05 13:42:44 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:42:49 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:42:49 - INFO -  * Restarting with stat
+2024-09-05 13:42:50 - WARNING -  * Debugger is active!
+2024-09-05 13:42:50 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:42:54 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:42:54 - INFO -  * Restarting with stat
+2024-09-05 13:43:16 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:43:16 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:43:16 - INFO -  * Restarting with stat
+2024-09-05 13:43:17 - WARNING -  * Debugger is active!
+2024-09-05 13:43:17 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:43:18 - INFO - 127.0.0.1 - - [05/Sep/2024 13:43:18] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:43:18 - INFO - Sending Waypoint for M7DOCK1 with lat : [{'latitude': 12.9716, 'longitude': 77.5946, 'height': 300}, {'latitude': 28.7041, 'longitude': 77.1025, 'height': 200}, {'latitude': 19.076, 'longitude': 72.8777, 'height': 150}]
+2024-09-05 13:43:18 - INFO - 127.0.0.1 - - [05/Sep/2024 13:43:18] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:43:18 - INFO - Sending Waypoint for M30TDOCK2 with lat : [{'latitude': 12.9716, 'longitude': 77.5946, 'height': 300}, {'latitude': 28.7041, 'longitude': 77.1025, 'height': 200}, {'latitude': 19.076, 'longitude': 72.8777, 'height': 150}]
+2024-09-05 13:43:18 - INFO - 127.0.0.1 - - [05/Sep/2024 13:43:18] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:43:30 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:43:30 - INFO -  * Restarting with stat
+2024-09-05 13:43:59 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:43:59 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:43:59 - INFO -  * Restarting with stat
+2024-09-05 13:43:59 - WARNING -  * Debugger is active!
+2024-09-05 13:43:59 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:44:00 - INFO - 127.0.0.1 - - [05/Sep/2024 13:44:00] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:44:00 - INFO - Sending Waypoint for M7DOCK1 with lat : {'latitude': 12.9716, 'longitude': 77.5946, 'height': 300}
+2024-09-05 13:44:00 - INFO - 127.0.0.1 - - [05/Sep/2024 13:44:00] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:44:00 - INFO - Sending Waypoint for M30TDOCK2 with lat : {'latitude': 12.9716, 'longitude': 77.5946, 'height': 300}
+2024-09-05 13:44:00 - INFO - 127.0.0.1 - - [05/Sep/2024 13:44:00] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:44:32 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:44:32 - INFO -  * Restarting with stat
+2024-09-05 13:44:32 - WARNING -  * Debugger is active!
+2024-09-05 13:44:32 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:44:36 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:44:36 - INFO -  * Restarting with stat
+2024-09-05 13:44:36 - WARNING -  * Debugger is active!
+2024-09-05 13:44:36 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:44:37 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:44:38 - INFO -  * Restarting with stat
+2024-09-05 13:44:38 - WARNING -  * Debugger is active!
+2024-09-05 13:44:38 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:50:27 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:50:27 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:50:27 - INFO -  * Restarting with stat
+2024-09-05 13:50:27 - WARNING -  * Debugger is active!
+2024-09-05 13:50:27 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:50:29 - INFO - 127.0.0.1 - - [05/Sep/2024 13:50:29] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:50:29 - INFO - Sending Waypoint for M7DOCK1 : {'latitude': 12.9716, 'longitude': 77.5946, 'height': 300}
+2024-09-05 13:50:29 - INFO - 127.0.0.1 - - [05/Sep/2024 13:50:29] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:50:29 - INFO - Sending Waypoint for M30TDOCK2 : {'latitude': 12.9716, 'longitude': 77.5946, 'height': 300}
+2024-09-05 13:50:29 - INFO - 127.0.0.1 - - [05/Sep/2024 13:50:29] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:50:56 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:50:56 - INFO -  * Restarting with stat
+2024-09-05 13:50:56 - WARNING -  * Debugger is active!
+2024-09-05 13:50:56 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:51:03 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:51:03 - INFO -  * Restarting with stat
+2024-09-05 13:51:03 - WARNING -  * Debugger is active!
+2024-09-05 13:51:03 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:51:08 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:51:08 - INFO -  * Restarting with stat
+2024-09-05 13:51:08 - WARNING -  * Debugger is active!
+2024-09-05 13:51:08 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:51:13 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:51:13 - INFO -  * Restarting with stat
+2024-09-05 13:51:13 - WARNING -  * Debugger is active!
+2024-09-05 13:51:13 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:51:14 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:51:14 - INFO -  * Restarting with stat
+2024-09-05 13:51:14 - WARNING -  * Debugger is active!
+2024-09-05 13:51:14 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:51:16 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:51:16 - INFO -  * Restarting with stat
+2024-09-05 13:51:16 - WARNING -  * Debugger is active!
+2024-09-05 13:51:16 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:51:19 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:51:19 - INFO -  * Restarting with stat
+2024-09-05 13:51:20 - WARNING -  * Debugger is active!
+2024-09-05 13:51:20 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:51:23 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:51:23 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:51:23 - INFO -  * Restarting with stat
+2024-09-05 13:51:23 - WARNING -  * Debugger is active!
+2024-09-05 13:51:23 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:51:24 - INFO - 127.0.0.1 - - [05/Sep/2024 13:51:24] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:52:23 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:52:23 - INFO -  * Restarting with stat
+2024-09-05 13:52:23 - WARNING -  * Debugger is active!
+2024-09-05 13:52:23 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:52:24 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:52:24 - INFO -  * Restarting with stat
+2024-09-05 13:52:24 - WARNING -  * Debugger is active!
+2024-09-05 13:52:24 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:52:27 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:52:27 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:52:27 - INFO -  * Restarting with stat
+2024-09-05 13:52:27 - WARNING -  * Debugger is active!
+2024-09-05 13:52:27 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:52:28 - INFO - 127.0.0.1 - - [05/Sep/2024 13:52:28] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:52:28 - INFO - Sending Waypoint for M7DOCK1 : {'latitude': 12.9716, 'longitude': 77.5946, 'height': 300}
+2024-09-05 13:52:28 - INFO - 127.0.0.1 - - [05/Sep/2024 13:52:28] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:52:28 - INFO - Sending Waypoint for M7DOCK1 : {'latitude': 28.7041, 'longitude': 77.1025, 'height': 200}
+2024-09-05 13:52:28 - INFO - 127.0.0.1 - - [05/Sep/2024 13:52:28] "GET /devices/M7DOCK1/1 HTTP/1.1" 200 -
+2024-09-05 13:52:28 - INFO - Sending Waypoint for M30TDOCK2 : {'latitude': 12.9716, 'longitude': 77.5946, 'height': 300}
+2024-09-05 13:52:28 - INFO - 127.0.0.1 - - [05/Sep/2024 13:52:28] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:52:28 - INFO - Sending Waypoint for M30TDOCK2 : {'latitude': 28.7041, 'longitude': 77.1025, 'height': 200}
+2024-09-05 13:52:28 - INFO - 127.0.0.1 - - [05/Sep/2024 13:52:28] "GET /devices/M30TDOCK2/1 HTTP/1.1" 200 -
+2024-09-05 13:52:41 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:52:41 - INFO -  * Restarting with stat
+2024-09-05 13:52:41 - WARNING -  * Debugger is active!
+2024-09-05 13:52:41 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:52:42 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:52:42 - INFO -  * Restarting with stat
+2024-09-05 13:52:42 - WARNING -  * Debugger is active!
+2024-09-05 13:52:42 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:52:44 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:52:44 - INFO -  * Restarting with stat
+2024-09-05 13:52:44 - WARNING -  * Debugger is active!
+2024-09-05 13:52:44 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:52:47 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:52:47 - INFO -  * Restarting with stat
+2024-09-05 13:52:47 - WARNING -  * Debugger is active!
+2024-09-05 13:52:47 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:52:48 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:52:48 - INFO -  * Restarting with stat
+2024-09-05 13:52:48 - WARNING -  * Debugger is active!
+2024-09-05 13:52:48 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:52:49 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:52:49 - INFO -  * Restarting with stat
+2024-09-05 13:52:49 - WARNING -  * Debugger is active!
+2024-09-05 13:52:49 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:53:01 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:53:01 - INFO -  * Restarting with stat
+2024-09-05 13:53:01 - WARNING -  * Debugger is active!
+2024-09-05 13:53:01 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:53:02 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:53:02 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:53:02 - INFO -  * Restarting with stat
+2024-09-05 13:53:02 - WARNING -  * Debugger is active!
+2024-09-05 13:53:02 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:53:03 - INFO - 127.0.0.1 - - [05/Sep/2024 13:53:03] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:53:10 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:53:10 - INFO -  * Restarting with stat
+2024-09-05 13:53:10 - WARNING -  * Debugger is active!
+2024-09-05 13:53:10 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:53:14 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:53:14 - INFO -  * Restarting with stat
+2024-09-05 13:53:14 - WARNING -  * Debugger is active!
+2024-09-05 13:53:14 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:53:17 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:53:17 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:53:17 - INFO -  * Restarting with stat
+2024-09-05 13:53:17 - WARNING -  * Debugger is active!
+2024-09-05 13:53:17 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:53:18 - INFO - 127.0.0.1 - - [05/Sep/2024 13:53:18] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:53:18 - INFO - Sending Waypoint for M7DOCK1 : {'latitude': 12.9716, 'longitude': 77.5946, 'height': 300}
+2024-09-05 13:53:20 - INFO - 127.0.0.1 - - [05/Sep/2024 13:53:20] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:53:20 - INFO - Sending Waypoint for M7DOCK1 : {'latitude': 28.7041, 'longitude': 77.1025, 'height': 200}
+2024-09-05 13:53:22 - INFO - 127.0.0.1 - - [05/Sep/2024 13:53:22] "GET /devices/M7DOCK1/1 HTTP/1.1" 200 -
+2024-09-05 13:53:22 - INFO - Sending Waypoint for M7DOCK1 : {'latitude': 19.076, 'longitude': 72.8777, 'height': 150}
+2024-09-05 13:53:24 - INFO - 127.0.0.1 - - [05/Sep/2024 13:53:24] "GET /devices/M7DOCK1/2 HTTP/1.1" 200 -
+2024-09-05 13:53:24 - INFO - Sending Waypoint for M30TDOCK2 : {'latitude': 12.9716, 'longitude': 77.5946, 'height': 300}
+2024-09-05 13:53:26 - INFO - 127.0.0.1 - - [05/Sep/2024 13:53:26] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:53:26 - INFO - Sending Waypoint for M30TDOCK2 : {'latitude': 28.7041, 'longitude': 77.1025, 'height': 200}
+2024-09-05 13:53:28 - INFO - 127.0.0.1 - - [05/Sep/2024 13:53:28] "GET /devices/M30TDOCK2/1 HTTP/1.1" 200 -
+2024-09-05 13:53:28 - INFO - Sending Waypoint for M30TDOCK2 : {'latitude': 19.076, 'longitude': 72.8777, 'height': 150}
+2024-09-05 13:53:30 - INFO - 127.0.0.1 - - [05/Sep/2024 13:53:30] "GET /devices/M30TDOCK2/2 HTTP/1.1" 200 -
+2024-09-05 13:57:15 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:57:15 - INFO -  * Restarting with stat
+2024-09-05 13:57:15 - WARNING -  * Debugger is active!
+2024-09-05 13:57:15 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:57:20 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:57:20 - INFO -  * Restarting with stat
+2024-09-05 13:57:20 - WARNING -  * Debugger is active!
+2024-09-05 13:57:20 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:57:23 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:57:23 - INFO -  * Restarting with stat
+2024-09-05 13:57:23 - WARNING -  * Debugger is active!
+2024-09-05 13:57:23 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:57:26 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:57:26 - INFO -  * Restarting with stat
+2024-09-05 13:57:26 - WARNING -  * Debugger is active!
+2024-09-05 13:57:26 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:57:28 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:57:28 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:57:28 - INFO -  * Restarting with stat
+2024-09-05 13:57:28 - WARNING -  * Debugger is active!
+2024-09-05 13:57:28 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:57:29 - INFO - 127.0.0.1 - - [05/Sep/2024 13:57:29] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:57:29 - INFO - Sending Waypoint for M7DOCK1 : {'latitude': 12.9716, 'longitude': 77.5946, 'height': 300}
+2024-09-05 13:57:31 - INFO - 127.0.0.1 - - [05/Sep/2024 13:57:31] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:57:31 - INFO - Sending Waypoint for M7DOCK1 : {'latitude': 28.7041, 'longitude': 77.1025, 'height': 200}
+2024-09-05 13:57:33 - INFO - 127.0.0.1 - - [05/Sep/2024 13:57:33] "GET /devices/M7DOCK1/1 HTTP/1.1" 200 -
+2024-09-05 13:57:33 - INFO - Sending Waypoint for M7DOCK1 : {'latitude': 19.076, 'longitude': 72.8777, 'height': 150}
+2024-09-05 13:57:35 - INFO - 127.0.0.1 - - [05/Sep/2024 13:57:35] "GET /devices/M7DOCK1/2 HTTP/1.1" 200 -
+2024-09-05 13:57:35 - INFO - Sending Waypoint for M30TDOCK2 : {'latitude': 12.9716, 'longitude': 77.5946, 'height': 300}
+2024-09-05 13:57:37 - INFO - 127.0.0.1 - - [05/Sep/2024 13:57:37] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:57:37 - INFO - Sending Waypoint for M30TDOCK2 : {'latitude': 28.7041, 'longitude': 77.1025, 'height': 200}
+2024-09-05 13:57:39 - INFO - 127.0.0.1 - - [05/Sep/2024 13:57:39] "GET /devices/M30TDOCK2/1 HTTP/1.1" 200 -
+2024-09-05 13:57:39 - INFO - Sending Waypoint for M30TDOCK2 : {'latitude': 19.076, 'longitude': 72.8777, 'height': 150}
+2024-09-05 13:57:41 - INFO - 127.0.0.1 - - [05/Sep/2024 13:57:41] "GET /devices/M30TDOCK2/2 HTTP/1.1" 200 -
+2024-09-05 13:57:49 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:57:49 - INFO -  * Restarting with stat
+2024-09-05 13:57:50 - WARNING -  * Debugger is active!
+2024-09-05 13:57:50 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:57:53 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-05 13:57:53 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-05 13:57:53 - INFO -  * Restarting with stat
+2024-09-05 13:57:53 - WARNING -  * Debugger is active!
+2024-09-05 13:57:53 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:57:54 - INFO - 127.0.0.1 - - [05/Sep/2024 13:57:54] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:57:54 - INFO - Sending Waypoint for M7DOCK1 : {'latitude': 12.9716, 'longitude': 77.5946, 'height': 300}
+2024-09-05 13:57:56 - INFO - 127.0.0.1 - - [05/Sep/2024 13:57:56] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:57:56 - INFO - Sending Waypoint for M30TDOCK2 : {'latitude': 12.9716, 'longitude': 77.5946, 'height': 300}
+2024-09-05 13:57:58 - INFO - 127.0.0.1 - - [05/Sep/2024 13:57:58] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:57:58 - INFO - Sending Waypoint for M7DOCK1 : {'latitude': 28.7041, 'longitude': 77.1025, 'height': 200}
+2024-09-05 13:58:00 - INFO - 127.0.0.1 - - [05/Sep/2024 13:58:00] "GET /devices/M7DOCK1/1 HTTP/1.1" 200 -
+2024-09-05 13:58:00 - INFO - Sending Waypoint for M30TDOCK2 : {'latitude': 28.7041, 'longitude': 77.1025, 'height': 200}
+2024-09-05 13:58:02 - INFO - 127.0.0.1 - - [05/Sep/2024 13:58:02] "GET /devices/M30TDOCK2/1 HTTP/1.1" 200 -
+2024-09-05 13:58:02 - INFO - Sending Waypoint for M7DOCK1 : {'latitude': 19.076, 'longitude': 72.8777, 'height': 150}
+2024-09-05 13:58:04 - INFO - 127.0.0.1 - - [05/Sep/2024 13:58:04] "GET /devices/M7DOCK1/2 HTTP/1.1" 200 -
+2024-09-05 13:58:04 - INFO - Sending Waypoint for M30TDOCK2 : {'latitude': 19.076, 'longitude': 72.8777, 'height': 150}
+2024-09-05 13:58:06 - INFO - 127.0.0.1 - - [05/Sep/2024 13:58:06] "GET /devices/M30TDOCK2/2 HTTP/1.1" 200 -
+2024-09-05 13:58:07 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:58:07 - INFO -  * Restarting with stat
+2024-09-05 13:58:07 - WARNING -  * Debugger is active!
+2024-09-05 13:58:07 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:58:16 - INFO - 127.0.0.1 - - [05/Sep/2024 13:58:16] "POST /waypoints HTTP/1.1" 200 -
+2024-09-05 13:58:16 - INFO - Sending Waypoint for M7DOCK1 : {'latitude': 12.9716, 'longitude': 77.5946, 'height': 300}
+2024-09-05 13:58:18 - INFO - 127.0.0.1 - - [05/Sep/2024 13:58:18] "GET /devices/M7DOCK1/0 HTTP/1.1" 200 -
+2024-09-05 13:58:18 - INFO - Sending Waypoint for M30TDOCK2 : {'latitude': 12.9716, 'longitude': 77.5946, 'height': 300}
+2024-09-05 13:58:20 - INFO - 127.0.0.1 - - [05/Sep/2024 13:58:20] "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 -
+2024-09-05 13:58:20 - INFO - Sending Waypoint for M7DOCK1 : {'latitude': 28.7041, 'longitude': 77.1025, 'height': 200}
+2024-09-05 13:58:22 - INFO - 127.0.0.1 - - [05/Sep/2024 13:58:22] "GET /devices/M7DOCK1/1 HTTP/1.1" 200 -
+2024-09-05 13:58:22 - INFO - Sending Waypoint for M30TDOCK2 : {'latitude': 28.7041, 'longitude': 77.1025, 'height': 200}
+2024-09-05 13:58:24 - INFO - 127.0.0.1 - - [05/Sep/2024 13:58:24] "GET /devices/M30TDOCK2/1 HTTP/1.1" 200 -
+2024-09-05 13:58:24 - INFO - Sending Waypoint for M7DOCK1 : {'latitude': 19.076, 'longitude': 72.8777, 'height': 150}
+2024-09-05 13:58:26 - INFO - 127.0.0.1 - - [05/Sep/2024 13:58:26] "GET /devices/M7DOCK1/2 HTTP/1.1" 200 -
+2024-09-05 13:58:26 - INFO - Sending Waypoint for M30TDOCK2 : {'latitude': 19.076, 'longitude': 72.8777, 'height': 150}
+2024-09-05 13:58:28 - INFO - 127.0.0.1 - - [05/Sep/2024 13:58:28] "GET /devices/M30TDOCK2/2 HTTP/1.1" 200 -
+2024-09-05 13:59:10 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:59:10 - INFO -  * Restarting with stat
+2024-09-05 13:59:11 - WARNING -  * Debugger is active!
+2024-09-05 13:59:11 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:59:16 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 13:59:16 - INFO -  * Restarting with stat
+2024-09-05 13:59:16 - WARNING -  * Debugger is active!
+2024-09-05 13:59:16 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:59:18 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:59:18 - INFO -  * Restarting with stat
+2024-09-05 13:59:18 - WARNING -  * Debugger is active!
+2024-09-05 13:59:18 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:59:28 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:59:28 - INFO -  * Restarting with stat
+2024-09-05 13:59:28 - WARNING -  * Debugger is active!
+2024-09-05 13:59:28 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:59:47 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:59:47 - INFO -  * Restarting with stat
+2024-09-05 13:59:47 - WARNING -  * Debugger is active!
+2024-09-05 13:59:47 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:59:52 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:59:52 - INFO -  * Restarting with stat
+2024-09-05 13:59:52 - WARNING -  * Debugger is active!
+2024-09-05 13:59:52 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 13:59:59 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 13:59:59 - INFO -  * Restarting with stat
+2024-09-05 13:59:59 - WARNING -  * Debugger is active!
+2024-09-05 13:59:59 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:00:02 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 14:00:02 - INFO -  * Restarting with stat
+2024-09-05 14:00:02 - WARNING -  * Debugger is active!
+2024-09-05 14:00:02 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:00:05 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 14:00:05 - INFO -  * Restarting with stat
+2024-09-05 14:00:06 - WARNING -  * Debugger is active!
+2024-09-05 14:00:06 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:00:19 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 14:00:19 - INFO -  * Restarting with stat
+2024-09-05 14:00:19 - WARNING -  * Debugger is active!
+2024-09-05 14:00:19 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:00:24 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 14:00:24 - INFO -  * Restarting with stat
+2024-09-05 14:00:24 - WARNING -  * Debugger is active!
+2024-09-05 14:00:24 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:00:28 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 14:00:28 - INFO -  * Restarting with stat
+2024-09-05 14:00:28 - WARNING -  * Debugger is active!
+2024-09-05 14:00:28 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:00:47 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 14:00:47 - INFO -  * Restarting with stat
+2024-09-05 14:00:47 - WARNING -  * Debugger is active!
+2024-09-05 14:00:47 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:00:51 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 14:00:51 - INFO -  * Restarting with stat
+2024-09-05 14:00:52 - WARNING -  * Debugger is active!
+2024-09-05 14:00:52 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:00:56 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 14:00:56 - INFO -  * Restarting with stat
+2024-09-05 14:00:56 - WARNING -  * Debugger is active!
+2024-09-05 14:00:56 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:00:57 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 14:00:57 - INFO -  * Restarting with stat
+2024-09-05 14:00:57 - WARNING -  * Debugger is active!
+2024-09-05 14:00:57 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:00:59 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 14:00:59 - INFO -  * Restarting with stat
+2024-09-05 14:00:59 - WARNING -  * Debugger is active!
+2024-09-05 14:00:59 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:01:03 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 14:01:03 - INFO -  * Restarting with stat
+2024-09-05 14:01:03 - WARNING -  * Debugger is active!
+2024-09-05 14:01:03 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:01:04 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 14:01:04 - INFO -  * Restarting with stat
+2024-09-05 14:01:04 - WARNING -  * Debugger is active!
+2024-09-05 14:01:04 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:01:08 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/waypoint_server.py', reloading
+2024-09-05 14:01:08 - INFO -  * Restarting with stat
+2024-09-05 14:01:08 - WARNING -  * Debugger is active!
+2024-09-05 14:01:08 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:01:28 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 14:01:28 - INFO -  * Restarting with stat
+2024-09-05 14:01:28 - WARNING -  * Debugger is active!
+2024-09-05 14:01:28 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:01:32 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 14:01:32 - INFO -  * Restarting with stat
+2024-09-05 14:01:32 - WARNING -  * Debugger is active!
+2024-09-05 14:01:32 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:02:36 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 14:02:36 - INFO -  * Restarting with stat
+2024-09-05 14:02:36 - WARNING -  * Debugger is active!
+2024-09-05 14:02:36 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:02:39 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 14:02:39 - INFO -  * Restarting with stat
+2024-09-05 14:02:39 - WARNING -  * Debugger is active!
+2024-09-05 14:02:39 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:02:56 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 14:02:56 - INFO -  * Restarting with stat
+2024-09-05 14:02:56 - WARNING -  * Debugger is active!
+2024-09-05 14:02:56 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:02:57 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 14:02:57 - INFO -  * Restarting with stat
+2024-09-05 14:02:57 - WARNING -  * Debugger is active!
+2024-09-05 14:02:57 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:03:04 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 14:03:04 - INFO -  * Restarting with stat
+2024-09-05 14:03:04 - WARNING -  * Debugger is active!
+2024-09-05 14:03:04 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:03:04 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 14:03:04 - INFO -  * Restarting with stat
+2024-09-05 14:03:04 - WARNING -  * Debugger is active!
+2024-09-05 14:03:04 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:03:05 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 14:03:05 - INFO -  * Restarting with stat
+2024-09-05 14:03:05 - WARNING -  * Debugger is active!
+2024-09-05 14:03:05 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:03:24 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 14:03:24 - INFO -  * Restarting with stat
+2024-09-05 14:03:24 - WARNING -  * Debugger is active!
+2024-09-05 14:03:24 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:03:28 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 14:03:28 - INFO -  * Restarting with stat
+2024-09-05 14:03:28 - WARNING -  * Debugger is active!
+2024-09-05 14:03:28 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:03:32 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 14:03:32 - INFO -  * Restarting with stat
+2024-09-05 14:03:32 - WARNING -  * Debugger is active!
+2024-09-05 14:03:32 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:03:46 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 14:03:46 - INFO -  * Restarting with stat
+2024-09-05 14:03:46 - WARNING -  * Debugger is active!
+2024-09-05 14:03:46 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:03:49 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 14:03:49 - INFO -  * Restarting with stat
+2024-09-05 14:03:49 - WARNING -  * Debugger is active!
+2024-09-05 14:03:49 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:04:32 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 14:04:32 - INFO -  * Restarting with stat
+2024-09-05 14:04:32 - WARNING -  * Debugger is active!
+2024-09-05 14:04:32 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:04:35 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 14:04:35 - INFO -  * Restarting with stat
+2024-09-05 14:04:35 - WARNING -  * Debugger is active!
+2024-09-05 14:04:35 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:04:39 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 14:04:39 - INFO -  * Restarting with stat
+2024-09-05 14:04:39 - WARNING -  * Debugger is active!
+2024-09-05 14:04:39 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:04:48 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 14:04:48 - INFO -  * Restarting with stat
+2024-09-05 14:04:48 - WARNING -  * Debugger is active!
+2024-09-05 14:04:48 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:04:50 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 14:04:50 - INFO -  * Restarting with stat
+2024-09-05 14:04:50 - WARNING -  * Debugger is active!
+2024-09-05 14:04:50 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:05:04 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 14:05:04 - INFO -  * Restarting with stat
+2024-09-05 14:05:04 - WARNING -  * Debugger is active!
+2024-09-05 14:05:04 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:05:06 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 14:05:06 - INFO -  * Restarting with stat
+2024-09-05 14:05:06 - WARNING -  * Debugger is active!
+2024-09-05 14:05:06 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:05:08 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 14:05:08 - INFO -  * Restarting with stat
+2024-09-05 14:05:08 - WARNING -  * Debugger is active!
+2024-09-05 14:05:08 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:05:12 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 14:05:12 - INFO -  * Restarting with stat
+2024-09-05 14:05:12 - WARNING -  * Debugger is active!
+2024-09-05 14:05:12 - INFO -  * Debugger PIN: 118-297-448
+2024-09-05 14:05:21 - INFO -  * Detected change in '/home/vipul/vipul/Python_Tutorials/FlytBase_REST_Navigation/src/navigation_manager.py', reloading
+2024-09-05 14:05:21 - INFO -  * Restarting with stat
+2024-09-05 14:05:21 - WARNING -  * Debugger is active!
+2024-09-05 14:05:21 - INFO -  * Debugger PIN: 118-297-448

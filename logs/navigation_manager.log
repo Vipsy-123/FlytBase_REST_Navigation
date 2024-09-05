@@ -1,0 +1,854 @@
+2024-09-05 12:01:01 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 12:01:35 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5001
+2024-09-05 12:03:03 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5001
+2024-09-05 12:03:18 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5001
+2024-09-05 12:03:59 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 12:03:59 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 12:03:59 - INFO - Waypoints and delays set successfully.
+2024-09-05 12:03:59 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 12:03:59 - DEBUG - Using selector: EpollSelector
+2024-09-05 12:04:14 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 12:04:14 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 12:04:14 - INFO - Waypoints and delays set successfully.
+2024-09-05 12:04:14 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 12:04:14 - DEBUG - Using selector: EpollSelector
+2024-09-05 12:26:13 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 12:26:13 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 12:26:13 - INFO - Waypoints and delays set successfully.
+2024-09-05 12:26:13 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 12:26:13 - DEBUG - Using selector: EpollSelector
+2024-09-05 12:46:45 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 12:46:45 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 12:46:45 - INFO - Waypoints and delays set successfully.
+2024-09-05 12:46:45 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 12:46:45 - DEBUG - Using selector: EpollSelector
+2024-09-05 12:47:01 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 12:47:01 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 12:47:01 - INFO - Waypoints and delays set successfully.
+2024-09-05 12:47:01 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 12:47:01 - DEBUG - Using selector: EpollSelector
+2024-09-05 12:47:30 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 12:47:30 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 12:47:30 - INFO - Waypoints and delays set successfully.
+2024-09-05 12:47:30 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 12:47:30 - DEBUG - Using selector: EpollSelector
+2024-09-05 12:47:45 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 12:47:45 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 12:47:45 - INFO - Waypoints and delays set successfully.
+2024-09-05 12:47:45 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 12:47:45 - DEBUG - Using selector: EpollSelector
+2024-09-05 12:47:45 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 12:47:45 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 500 13381
+2024-09-05 12:47:45 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 12:47:45 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 500 13381
+2024-09-05 12:56:02 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 12:56:02 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 12:56:02 - INFO - Waypoints and delays set successfully.
+2024-09-05 12:56:02 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 12:56:02 - DEBUG - Using selector: EpollSelector
+2024-09-05 12:56:02 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 12:56:02 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 500 13384
+2024-09-05 12:56:02 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 12:56:02 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 500 13384
+2024-09-05 12:57:28 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 12:57:28 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 12:57:28 - INFO - Waypoints and delays set successfully.
+2024-09-05 12:57:28 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 12:57:28 - DEBUG - Using selector: EpollSelector
+2024-09-05 12:57:28 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 12:57:28 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 500 13384
+2024-09-05 12:57:28 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 12:57:28 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 500 13384
+2024-09-05 12:59:49 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 12:59:49 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 12:59:49 - INFO - Waypoints and delays set successfully.
+2024-09-05 12:59:49 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 12:59:49 - DEBUG - Using selector: EpollSelector
+2024-09-05 12:59:49 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 12:59:49 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 684
+2024-09-05 12:59:49 - INFO - {'device_id': 'M7DOCK1', 'waypoints': {'M30TDOCK2': [{'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}, {'height': 200, 'latitude': 28.7041, 'longitude': 77.1025}, {'height': 150, 'latitude': 19.076, 'longitude': 72.8777}], 'M7DOCK1': [{'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}, {'height': 200, 'latitude': 28.7041, 'longitude': 77.1025}, {'height': 150, 'latitude': 19.076, 'longitude': 72.8777}]}}
+2024-09-05 12:59:49 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 12:59:49 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/1 HTTP/1.1" 200 684
+2024-09-05 12:59:49 - INFO - {'device_id': 'M7DOCK1', 'waypoints': {'M30TDOCK2': [{'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}, {'height': 200, 'latitude': 28.7041, 'longitude': 77.1025}, {'height': 150, 'latitude': 19.076, 'longitude': 72.8777}], 'M7DOCK1': [{'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}, {'height': 200, 'latitude': 28.7041, 'longitude': 77.1025}, {'height': 150, 'latitude': 19.076, 'longitude': 72.8777}]}}
+2024-09-05 12:59:49 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 12:59:49 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 686
+2024-09-05 12:59:49 - INFO - {'device_id': 'M30TDOCK2', 'waypoints': {'M30TDOCK2': [{'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}, {'height': 200, 'latitude': 28.7041, 'longitude': 77.1025}, {'height': 150, 'latitude': 19.076, 'longitude': 72.8777}], 'M7DOCK1': [{'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}, {'height': 200, 'latitude': 28.7041, 'longitude': 77.1025}, {'height': 150, 'latitude': 19.076, 'longitude': 72.8777}]}}
+2024-09-05 12:59:49 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 12:59:49 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/1 HTTP/1.1" 200 686
+2024-09-05 12:59:49 - INFO - {'device_id': 'M30TDOCK2', 'waypoints': {'M30TDOCK2': [{'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}, {'height': 200, 'latitude': 28.7041, 'longitude': 77.1025}, {'height': 150, 'latitude': 19.076, 'longitude': 72.8777}], 'M7DOCK1': [{'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}, {'height': 200, 'latitude': 28.7041, 'longitude': 77.1025}, {'height': 150, 'latitude': 19.076, 'longitude': 72.8777}]}}
+2024-09-05 13:01:49 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:01:49 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:01:49 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:01:49 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:01:49 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:01:49 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:01:49 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 500 13373
+2024-09-05 13:01:49 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:01:49 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 500 13373
+2024-09-05 13:01:53 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:01:53 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:01:53 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:01:53 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:01:53 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:01:53 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:01:53 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 500 13373
+2024-09-05 13:01:53 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:01:53 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 500 13373
+2024-09-05 13:01:57 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:01:57 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:01:57 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:01:57 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:01:57 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:01:57 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:01:57 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 500 13373
+2024-09-05 13:01:57 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:01:57 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 500 13373
+2024-09-05 13:04:24 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:04:30 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:04:30 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:04:30 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:04:30 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:04:30 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:04:30 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:04:30 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 5
+2024-09-05 13:04:30 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:04:30 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 5
+2024-09-05 13:04:40 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:04:40 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:04:40 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:04:40 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:04:40 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:04:40 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:04:40 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 5
+2024-09-05 13:04:40 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:04:40 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 5
+2024-09-05 13:04:44 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:04:44 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:04:44 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:04:44 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:04:44 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:04:44 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:04:44 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 5
+2024-09-05 13:04:44 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:04:44 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 5
+2024-09-05 13:05:12 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:05:12 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:05:12 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:05:12 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:05:12 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:05:12 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:05:12 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 5
+2024-09-05 13:05:12 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:05:12 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 5
+2024-09-05 13:05:46 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:05:46 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:05:46 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:05:46 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:05:46 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:05:46 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:05:46 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 500 11932
+2024-09-05 13:05:46 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:05:46 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 500 11932
+2024-09-05 13:05:52 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:05:52 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:05:52 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:05:52 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:05:52 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:05:52 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:05:52 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 500 11932
+2024-09-05 13:05:52 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:05:52 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 500 11932
+2024-09-05 13:06:41 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:06:41 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:06:41 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:06:41 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:06:41 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:06:41 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:06:41 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 500 11932
+2024-09-05 13:06:41 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:06:41 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 500 11932
+2024-09-05 13:06:44 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:06:44 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:06:44 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:06:44 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:06:44 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:06:44 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:06:44 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 500 11932
+2024-09-05 13:06:44 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:06:44 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 500 11932
+2024-09-05 13:07:13 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:07:13 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:07:13 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:07:13 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:07:13 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:07:13 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:07:13 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 500 11932
+2024-09-05 13:07:13 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:07:13 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 500 11932
+2024-09-05 13:07:31 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:07:31 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:07:31 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:07:31 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:07:31 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:07:31 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:07:31 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 500 11932
+2024-09-05 13:07:31 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:07:31 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 500 11932
+2024-09-05 13:08:40 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:08:40 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:08:40 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:08:40 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:08:40 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:08:40 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:08:40 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 500 11932
+2024-09-05 13:08:40 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:08:40 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 500 11932
+2024-09-05 13:09:02 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:09:02 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:09:02 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:09:02 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:09:02 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:09:02 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:09:02 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 500 11932
+2024-09-05 13:09:02 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:09:02 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 500 11932
+2024-09-05 13:09:07 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:09:07 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:09:07 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:09:07 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:09:07 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:09:07 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:09:07 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 500 11932
+2024-09-05 13:09:07 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:09:07 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 500 11932
+2024-09-05 13:09:28 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:09:28 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:09:28 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:09:28 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:09:28 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:09:28 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:09:28 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 500 11932
+2024-09-05 13:09:28 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:09:28 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 500 11932
+2024-09-05 13:10:08 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:10:08 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:10:08 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:10:08 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:10:08 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:10:08 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:10:08 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 500 11932
+2024-09-05 13:10:08 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:10:08 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 500 11932
+2024-09-05 13:10:24 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:10:24 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:10:24 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:10:24 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:10:24 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:10:24 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:10:24 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 500 11932
+2024-09-05 13:10:24 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:10:24 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 500 11932
+2024-09-05 13:10:41 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:10:41 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:10:41 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:10:41 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:10:41 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:10:41 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:10:41 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 500 11932
+2024-09-05 13:10:41 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:10:41 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 500 11932
+2024-09-05 13:10:59 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:10:59 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:10:59 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:10:59 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:10:59 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:10:59 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:10:59 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 500 11932
+2024-09-05 13:10:59 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:10:59 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 500 11932
+2024-09-05 13:11:34 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:11:34 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:11:34 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:11:34 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:11:34 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:11:34 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:11:34 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 500 11932
+2024-09-05 13:11:34 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:11:34 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 500 11932
+2024-09-05 13:12:02 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:12:02 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:12:02 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:12:02 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:12:02 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:12:02 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:12:02 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 500 11932
+2024-09-05 13:12:02 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:12:02 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 500 11932
+2024-09-05 13:15:20 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:15:20 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:15:20 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:15:20 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:15:20 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:15:20 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:15:20 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 500 11932
+2024-09-05 13:15:20 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:15:20 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 500 11932
+2024-09-05 13:15:47 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:15:47 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:15:47 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:15:47 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:15:47 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:15:47 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:15:47 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 500 11932
+2024-09-05 13:15:47 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:15:47 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 500 11932
+2024-09-05 13:16:07 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:16:07 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:16:07 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:16:07 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:16:07 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:16:07 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:16:07 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 500 11932
+2024-09-05 13:16:07 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:16:07 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 500 11932
+2024-09-05 13:16:10 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:16:10 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:16:10 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:16:10 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:16:10 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:16:10 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:16:10 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 500 11932
+2024-09-05 13:16:10 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:16:10 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 500 11932
+2024-09-05 13:16:50 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:16:50 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:16:50 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:16:50 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:16:50 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:16:50 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:16:50 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 500 11932
+2024-09-05 13:16:50 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:16:50 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 500 11932
+2024-09-05 13:17:15 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:17:15 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:17:15 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:17:15 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:17:15 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:17:15 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:17:15 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:17:15 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:17:15 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:17:15 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/1 HTTP/1.1" 200 119
+2024-09-05 13:17:15 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 200, 'latitude': 28.7041, 'longitude': 77.1025}}
+2024-09-05 13:17:15 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:17:15 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:17:15 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:17:15 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:17:15 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/1 HTTP/1.1" 200 121
+2024-09-05 13:17:15 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 200, 'latitude': 28.7041, 'longitude': 77.1025}}
+2024-09-05 13:18:23 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:18:23 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:18:23 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:18:23 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:18:23 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:18:23 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:18:23 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:18:23 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:18:23 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:18:23 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/1 HTTP/1.1" 200 119
+2024-09-05 13:18:23 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 200, 'latitude': 28.7041, 'longitude': 77.1025}}
+2024-09-05 13:18:23 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:18:23 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:18:23 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:18:23 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:18:23 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/1 HTTP/1.1" 200 121
+2024-09-05 13:18:23 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 200, 'latitude': 28.7041, 'longitude': 77.1025}}
+2024-09-05 13:19:10 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:19:10 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:19:10 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:19:10 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:19:10 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:19:10 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:19:10 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:19:10 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:19:10 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:19:10 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/1 HTTP/1.1" 200 119
+2024-09-05 13:19:10 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 200, 'latitude': 28.7041, 'longitude': 77.1025}}
+2024-09-05 13:19:10 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:19:10 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:19:10 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:19:10 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:19:10 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/1 HTTP/1.1" 200 121
+2024-09-05 13:19:10 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 200, 'latitude': 28.7041, 'longitude': 77.1025}}
+2024-09-05 13:19:15 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:19:15 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:19:15 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:19:15 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:19:15 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:19:15 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:19:15 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:19:15 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:19:15 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:19:15 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/1 HTTP/1.1" 200 119
+2024-09-05 13:19:15 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 200, 'latitude': 28.7041, 'longitude': 77.1025}}
+2024-09-05 13:19:15 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:19:15 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:19:15 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:19:15 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:19:15 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/1 HTTP/1.1" 200 121
+2024-09-05 13:19:15 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 200, 'latitude': 28.7041, 'longitude': 77.1025}}
+2024-09-05 13:25:42 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:25:42 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:25:42 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:25:42 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:25:42 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:25:42 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:25:42 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:25:42 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:25:42 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:25:42 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:25:42 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:26:36 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:26:36 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:26:36 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:26:36 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:26:36 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:26:36 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:26:36 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 500 14906
+2024-09-05 13:26:36 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:26:36 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 500 14906
+2024-09-05 13:27:49 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:27:49 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:27:49 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:27:49 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:27:49 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:27:49 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:27:49 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:27:49 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:27:49 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:27:49 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:27:49 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:28:07 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:28:07 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:28:07 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:28:07 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:28:07 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:28:07 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:28:07 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:28:07 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:28:07 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:28:07 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:28:07 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:32:05 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:32:11 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:32:11 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:32:11 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:32:11 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:32:11 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:32:11 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:32:11 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:32:11 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:32:11 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:32:11 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:32:11 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:33:01 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:01 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:33:01 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:33:01 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:33:01 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:33:01 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:01 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:33:01 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:33:01 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:01 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:33:01 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:33:22 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:22 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:33:22 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:33:22 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:33:22 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:33:22 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:22 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:33:22 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:33:22 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:22 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:33:22 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:33:37 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:37 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:33:37 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:33:37 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:33:37 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:33:37 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:37 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:33:37 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:33:37 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:37 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:33:37 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:33:38 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:38 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:33:38 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:33:38 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:33:38 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:33:38 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:38 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:33:38 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:33:38 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:38 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:33:38 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:33:39 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:39 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:33:39 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:33:39 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:33:39 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:33:39 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:39 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:33:39 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:33:39 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:39 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:33:39 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:33:39 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:39 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:33:39 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:33:39 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:33:39 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:33:39 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:39 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:33:39 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:33:39 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:39 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:33:39 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:33:40 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:40 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:33:40 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:33:40 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:33:40 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:33:40 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:40 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:33:40 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:33:40 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:40 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:33:40 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:33:40 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:40 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:33:40 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:33:40 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:33:40 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:33:40 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:40 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:33:40 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:33:40 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:40 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:33:40 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:33:40 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:40 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:33:40 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:33:40 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:33:40 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:33:40 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:40 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:33:40 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:33:40 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:40 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:33:40 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:33:41 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:41 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:33:41 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:33:41 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:33:41 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:33:41 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:41 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:33:41 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:33:41 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:41 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:33:41 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:33:41 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:41 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:33:41 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:33:41 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:33:41 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:33:41 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:41 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:33:41 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:33:41 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:41 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:33:41 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:33:41 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:41 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:33:41 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:33:41 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:33:41 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:33:41 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:41 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:33:41 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:33:41 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:41 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:33:41 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:33:41 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:41 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:33:41 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:33:41 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:33:41 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:33:41 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:41 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:33:41 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:33:41 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:41 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:33:41 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:33:42 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:42 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:33:42 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:33:42 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:33:42 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:33:42 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:42 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:33:42 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:33:42 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:42 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:33:42 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:33:42 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:42 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:33:42 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:33:42 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:33:42 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:33:42 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:42 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:33:42 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:33:42 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:33:42 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:33:42 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:34:05 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:34:05 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:34:05 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:34:05 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:34:05 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:34:05 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:34:05 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:34:05 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:34:05 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:34:05 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:34:05 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:35:25 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:35:25 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:35:25 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:35:25 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:35:25 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:35:25 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:35:25 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:35:25 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:35:25 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:35:25 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:35:25 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:36:13 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:36:13 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:36:13 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:36:13 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:36:13 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:36:13 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:36:13 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 500 11932
+2024-09-05 13:36:13 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:36:13 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 500 11932
+2024-09-05 13:39:36 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:39:36 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:39:36 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:39:36 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:39:36 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:39:36 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:39:36 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 500 11932
+2024-09-05 13:39:36 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:39:36 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 500 11932
+2024-09-05 13:39:58 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:39:58 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:39:58 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:39:58 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:39:58 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:39:58 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:39:58 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:39:58 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:39:58 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:39:58 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:39:58 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:40:29 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:40:29 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:40:29 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:40:29 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:40:29 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:40:29 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:40:29 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:40:29 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:40:29 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:40:29 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:40:29 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:40:31 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:40:31 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:40:31 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:40:31 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:40:31 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:40:31 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:40:31 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:40:31 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:40:31 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:40:31 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:40:31 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:42:32 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:42:32 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:42:32 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:42:32 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:42:32 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:42:32 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:42:32 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:42:32 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:42:32 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:42:32 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:42:32 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:43:18 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:43:18 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:43:18 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:43:18 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:43:18 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:43:18 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:43:18 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:43:18 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:43:18 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:43:18 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:43:18 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:44:00 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:44:00 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:44:00 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:44:00 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:44:00 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:44:00 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:44:00 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:44:00 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:44:00 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:44:00 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:44:00 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:50:29 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:50:29 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:50:29 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:50:29 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:50:29 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:50:29 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:50:29 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:50:29 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:50:29 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:50:29 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:50:29 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:51:24 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:51:24 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:51:24 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:51:24 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:51:24 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:52:28 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:52:28 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:52:28 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:52:28 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:52:28 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:52:28 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:52:28 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:52:28 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:52:28 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:52:28 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/1 HTTP/1.1" 200 119
+2024-09-05 13:52:28 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 200, 'latitude': 28.7041, 'longitude': 77.1025}}
+2024-09-05 13:52:28 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:52:28 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:52:28 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:52:28 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:52:28 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/1 HTTP/1.1" 200 121
+2024-09-05 13:52:28 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 200, 'latitude': 28.7041, 'longitude': 77.1025}}
+2024-09-05 13:53:03 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:53:03 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:53:03 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:53:03 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:53:03 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:53:18 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:53:18 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:53:18 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:53:18 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:53:18 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:53:18 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:53:20 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:53:20 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:53:20 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:53:22 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/1 HTTP/1.1" 200 119
+2024-09-05 13:53:22 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 200, 'latitude': 28.7041, 'longitude': 77.1025}}
+2024-09-05 13:53:22 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:53:24 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/2 HTTP/1.1" 200 118
+2024-09-05 13:53:24 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 150, 'latitude': 19.076, 'longitude': 72.8777}}
+2024-09-05 13:53:24 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:53:26 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:53:26 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:53:26 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:53:28 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/1 HTTP/1.1" 200 121
+2024-09-05 13:53:28 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 200, 'latitude': 28.7041, 'longitude': 77.1025}}
+2024-09-05 13:53:28 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:53:30 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/2 HTTP/1.1" 200 120
+2024-09-05 13:53:30 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 150, 'latitude': 19.076, 'longitude': 72.8777}}
+2024-09-05 13:57:29 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:57:29 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:57:29 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:57:29 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:57:29 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:57:29 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:57:31 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:57:31 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:57:31 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:57:33 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/1 HTTP/1.1" 200 119
+2024-09-05 13:57:33 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 200, 'latitude': 28.7041, 'longitude': 77.1025}}
+2024-09-05 13:57:33 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:57:35 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/2 HTTP/1.1" 200 118
+2024-09-05 13:57:35 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 150, 'latitude': 19.076, 'longitude': 72.8777}}
+2024-09-05 13:57:35 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:57:37 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:57:37 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:57:37 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:57:39 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/1 HTTP/1.1" 200 121
+2024-09-05 13:57:39 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 200, 'latitude': 28.7041, 'longitude': 77.1025}}
+2024-09-05 13:57:39 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:57:41 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/2 HTTP/1.1" 200 120
+2024-09-05 13:57:41 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 150, 'latitude': 19.076, 'longitude': 72.8777}}
+2024-09-05 13:57:54 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:57:54 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:57:54 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:57:54 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:57:54 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:57:54 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:57:56 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:57:56 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:57:56 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:57:58 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:57:58 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:57:58 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:58:00 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/1 HTTP/1.1" 200 119
+2024-09-05 13:58:00 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 200, 'latitude': 28.7041, 'longitude': 77.1025}}
+2024-09-05 13:58:00 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:58:02 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/1 HTTP/1.1" 200 121
+2024-09-05 13:58:02 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 200, 'latitude': 28.7041, 'longitude': 77.1025}}
+2024-09-05 13:58:02 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:58:04 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/2 HTTP/1.1" 200 118
+2024-09-05 13:58:04 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 150, 'latitude': 19.076, 'longitude': 72.8777}}
+2024-09-05 13:58:04 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:58:06 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/2 HTTP/1.1" 200 120
+2024-09-05 13:58:06 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 150, 'latitude': 19.076, 'longitude': 72.8777}}
+2024-09-05 13:58:16 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:58:16 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-05 13:58:16 - INFO - Waypoints and delays set successfully.
+2024-09-05 13:58:16 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-05 13:58:16 - DEBUG - Using selector: EpollSelector
+2024-09-05 13:58:16 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:58:18 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/0 HTTP/1.1" 200 119
+2024-09-05 13:58:18 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:58:18 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:58:20 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/0 HTTP/1.1" 200 121
+2024-09-05 13:58:20 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 300, 'latitude': 12.9716, 'longitude': 77.5946}}
+2024-09-05 13:58:20 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:58:22 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/1 HTTP/1.1" 200 119
+2024-09-05 13:58:22 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 200, 'latitude': 28.7041, 'longitude': 77.1025}}
+2024-09-05 13:58:22 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:58:24 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/1 HTTP/1.1" 200 121
+2024-09-05 13:58:24 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 200, 'latitude': 28.7041, 'longitude': 77.1025}}
+2024-09-05 13:58:24 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:58:26 - DEBUG - http://127.0.0.1:5000 "GET /devices/M7DOCK1/2 HTTP/1.1" 200 118
+2024-09-05 13:58:26 - INFO - {'device_id': 'M7DOCK1', 'waypoint': {'height': 150, 'latitude': 19.076, 'longitude': 72.8777}}
+2024-09-05 13:58:26 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-05 13:58:28 - DEBUG - http://127.0.0.1:5000 "GET /devices/M30TDOCK2/2 HTTP/1.1" 200 120
+2024-09-05 13:58:28 - INFO - {'device_id': 'M30TDOCK2', 'waypoint': {'height': 150, 'latitude': 19.076, 'longitude': 72.8777}}
