@@ -86,6 +86,7 @@ class NavigationManager:
     
     async def goto_waypoint(device_id,waypoint):
         # TODO : Handle Cloud API calls 
+        pass
 
 async def main():
     # Create a list of tasks
