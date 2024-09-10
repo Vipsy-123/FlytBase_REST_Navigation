@@ -32,6 +32,12 @@ payload = {
 # Convert the payload to JSON format
 message = json.dumps(payload)
 
+# Callback function to handle received messages
+def on_message(client, userdata, message):
+    # Decode the message payload
+    payload = message.payload.decode("utf-8")
+    print(f"Received message on topic {message.topic}: {payload}")
+    
 if __name__ == "__main__":
     # Initialize and connect the MQTT client
     client = mqtt.Client()
@@ -53,4 +59,21 @@ if __name__ == "__main__":
     # Publish the message and print detailed results
     result = client.publish(topic, message)
     print(f"Message publish result: {result}")
+    
+    topic = f"{org_id}/{device_id}/go_to_location_state"
+    msg,helo = client.subscribe(topic)
+    
+    client.on_message = on_message
 
+    client.loop_start()
+    
+        # Keep the script running to continuously receive messages
+    try:
+        while True:
+            pass  # Keep the program running
+    except KeyboardInterrupt:
+        print("Exiting...")
+
+    # Stop the loop and disconnect from the broker
+    client.loop_stop()
+    client.disconnect()
