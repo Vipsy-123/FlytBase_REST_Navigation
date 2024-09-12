@@ -4,29 +4,22 @@ import asyncio
 import ssl
 
 # Define MQTT broker details
-broker = "cloud.flytbase.com"
+broker = "cloud-stag.flytbase.com"
 port = 8883
 client = None
 
 # Organisation and Device IDs
-org_id = "66682685365372daee8facec" # adityap Organisation
-device_id = "66e299a6b649065f39d6d5d8"
+org_id = "64f86348220a0c7ac080696d"
+device_id = "66a76584155b1de810e6acf3"
 
 # MQTT topic (same as publisher)
-topic =  "66682685365372daee8facec/66e299a6b649065f39d6d5d8/navigation/go_to_location/request"   #f"{org_id}/{device_id}/navigation/go_to_location/request"
+topic =  "64f86348220a0c7ac080696d/66a76584155b1de810e6acf3/navigation/rth/request"   #f"{org_id}/{device_id}/navigation/go_to_location/request"
 
 # Payload data
 payload = {
     "timestamp": 12345678.0,
     "job_id": f"Job-{device_id}",
-    "data": {
-        "latitude": 18.56703161024171,
-        "longitude": 73.77140053195978,
-        "height": 40.0,
-        "speed": 10.0,
-        "flight_id": f"{device_id}",
-        "rth_height": 50.0
-    }
+    "data": {  }
 }
 
 # Convert the payload to JSON format
@@ -60,20 +53,20 @@ if __name__ == "__main__":
     result = client.publish(topic, message)
     print(f"Message publish result: {result}")
     
-    topic = f"{org_id}/{device_id}/go_to_location_state"
-    msg,helo = client.subscribe(topic)
+    # topic = f"{org_id}/{device_id}/go_to_location_state"
+    # msg,helo = client.subscribe(topic)
     
-    client.on_message = on_message
+    # client.on_message = on_message
 
-    client.loop_start()
+    # client.loop_start()
     
-        # Keep the script running to continuously receive messages
-    try:
-        while True:
-            pass  # Keep the program running
-    except KeyboardInterrupt:
-        print("Exiting...")
+    #     # Keep the script running to continuously receive messages
+    # try:
+    #     while True:
+    #         pass  # Keep the program running
+    # except KeyboardInterrupt:
+    #     print("Exiting...")
 
-    # Stop the loop and disconnect from the broker
-    client.loop_stop()
-    client.disconnect()
+    # # Stop the loop and disconnect from the broker
+    # client.loop_stop()
+    # client.disconnect()
