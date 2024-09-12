@@ -38,14 +38,17 @@ def send_waypoint(device_id,wp_no):
         waypoint = waypoints[device_id][wp_no]
         
         # Return the waypoint
+        print(device_id)
+        print(waypoint)
+
         return jsonify({
             "device_id": device_id,
             "waypoint": waypoint
         })
     except Exception as e:
-        logging.error(e)
-        print("!!! ERR0R !!!")
-        return 
+        logging.error(f"An error occurred: {e}")
+        print(f"ERR0R :: {e} !")
+        return jsonify({"Error from Waypoint Server"}), 500
     
 @app.route('/waypoints', methods=['POST'])
 def setup_devices():
