@@ -6676,3 +6676,122 @@
 2024-09-12 18:18:59 - INFO -  * Restarting with stat
 2024-09-12 18:18:59 - WARNING -  * Debugger is active!
 2024-09-12 18:18:59 - INFO -  * Debugger PIN: 121-210-005
+2024-09-12 18:34:12 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-12 18:34:12 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-12 18:34:12 - INFO -  * Restarting with stat
+2024-09-12 18:34:12 - WARNING -  * Debugger is active!
+2024-09-12 18:34:12 - INFO -  * Debugger PIN: 121-210-005
+2024-09-12 18:34:21 - INFO - 127.0.0.1 - - [12/Sep/2024 18:34:21] "POST /waypoints HTTP/1.1" 200 -
+2024-09-12 18:34:21 - INFO - Sending Waypoint for 66e299a6b649065f39d6d5d8 : {'latitude': 18.567401186240225, 'longitude': 73.77164156403151, 'height': 30}
+2024-09-12 18:34:23 - INFO - 127.0.0.1 - - [12/Sep/2024 18:34:23] "GET /devices/66e299a6b649065f39d6d5d8/0 HTTP/1.1" 200 -
+2024-09-12 18:34:23 - INFO - Sending Waypoint for 66e29a0db649065f39d6d601 : {'latitude': 18.567188585855867, 'longitude': 73.7724513709704, 'height': 35}
+2024-09-12 18:34:25 - INFO - 127.0.0.1 - - [12/Sep/2024 18:34:25] "GET /devices/66e29a0db649065f39d6d601/0 HTTP/1.1" 200 -
+2024-09-12 14:20:30 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-12 14:20:30 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-12 14:20:30 - INFO -  * Restarting with stat
+2024-09-12 14:20:30 - WARNING -  * Debugger is active!
+2024-09-12 14:20:30 - INFO -  * Debugger PIN: 858-209-963
+2024-09-12 14:22:14 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-12 14:22:14 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-12 14:22:14 - INFO -  * Restarting with stat
+2024-09-12 14:22:14 - WARNING -  * Debugger is active!
+2024-09-12 14:22:14 - INFO -  * Debugger PIN: 858-209-963
+2024-09-12 14:25:27 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-12 14:25:27 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-12 14:25:27 - INFO -  * Restarting with stat
+2024-09-12 14:25:27 - WARNING -  * Debugger is active!
+2024-09-12 14:25:27 - INFO -  * Debugger PIN: 858-209-963
+2024-09-12 14:29:58 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-12 14:29:58 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-12 14:29:58 - INFO -  * Restarting with stat
+2024-09-12 14:29:58 - WARNING -  * Debugger is active!
+2024-09-12 14:29:58 - INFO -  * Debugger PIN: 858-209-963
+2024-09-12 14:30:42 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-12 14:30:42 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-12 14:30:42 - INFO -  * Restarting with stat
+2024-09-12 14:30:42 - WARNING -  * Debugger is active!
+2024-09-12 14:30:42 - INFO -  * Debugger PIN: 858-209-963
+2024-09-12 14:31:56 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-12 14:31:56 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-12 14:31:56 - INFO -  * Restarting with stat
+2024-09-12 14:31:56 - WARNING -  * Debugger is active!
+2024-09-12 14:31:56 - INFO -  * Debugger PIN: 858-209-963
+2024-09-13 04:51:24 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-13 04:51:24 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-13 04:51:24 - INFO -  * Restarting with stat
+2024-09-13 04:51:24 - WARNING -  * Debugger is active!
+2024-09-13 04:51:24 - INFO -  * Debugger PIN: 699-265-830
+2024-09-13 10:22:41 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-13 10:22:41 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-13 10:22:41 - INFO -  * Restarting with stat
+2024-09-13 10:22:41 - WARNING -  * Debugger is active!
+2024-09-13 10:22:41 - INFO -  * Debugger PIN: 928-135-603
+2024-09-13 10:24:15 - INFO - 127.0.0.1 - - [13/Sep/2024 10:24:15] "POST /waypoints HTTP/1.1" 200 -
+2024-09-13 10:24:15 - INFO - Sending Waypoint for 66e299a6b649065f39d6d5d8 : {'latitude': 18.567401186240225, 'longitude': 73.77164156403151, 'height': 30}
+2024-09-13 10:24:17 - INFO - 127.0.0.1 - - [13/Sep/2024 10:24:17] "GET /devices/66e299a6b649065f39d6d5d8/0 HTTP/1.1" 200 -
+2024-09-13 10:24:17 - INFO - Sending Waypoint for 66e29a0db649065f39d6d601 : {'latitude': 18.567188585855867, 'longitude': 73.7724513709704, 'height': 35}
+2024-09-13 10:24:19 - INFO - 127.0.0.1 - - [13/Sep/2024 10:24:19] "GET /devices/66e29a0db649065f39d6d601/0 HTTP/1.1" 200 -
+2024-09-13 10:25:06 - INFO - Sending Waypoint for 66e299a6b649065f39d6d5d8 : {'latitude': 18.56789888415445, 'longitude': 73.77173236517294, 'height': 30}
+2024-09-13 10:25:08 - INFO - 127.0.0.1 - - [13/Sep/2024 10:25:08] "GET /devices/66e299a6b649065f39d6d5d8/1 HTTP/1.1" 200 -
+2024-09-13 10:25:14 - INFO - Sending Waypoint for 66e29a0db649065f39d6d601 : {'latitude': 18.567140020748337, 'longitude': 73.77315097993511, 'height': 35}
+2024-09-13 10:25:16 - INFO - 127.0.0.1 - - [13/Sep/2024 10:25:16] "GET /devices/66e29a0db649065f39d6d601/1 HTTP/1.1" 200 -
+2024-09-13 10:25:24 - INFO - Sending Waypoint for 66e299a6b649065f39d6d5d8 : {'latitude': 18.567978836883235, 'longitude': 73.7721740773291, 'height': 30}
+2024-09-13 10:25:26 - INFO - 127.0.0.1 - - [13/Sep/2024 10:25:26] "GET /devices/66e299a6b649065f39d6d5d8/2 HTTP/1.1" 200 -
+2024-09-13 10:25:33 - INFO - Sending Waypoint for 66e29a0db649065f39d6d601 : {'latitude': 18.56595551156461, 'longitude': 73.7728491523852, 'height': 35}
+2024-09-13 10:25:35 - INFO - 127.0.0.1 - - [13/Sep/2024 10:25:35] "GET /devices/66e29a0db649065f39d6d601/2 HTTP/1.1" 200 -
+2024-09-13 10:25:41 - INFO - Sending Waypoint for 66e299a6b649065f39d6d5d8 : {'latitude': 18.56754219638799, 'longitude': 73.77218376137297, 'height': 30}
+2024-09-13 10:25:43 - INFO - 127.0.0.1 - - [13/Sep/2024 10:25:43] "GET /devices/66e299a6b649065f39d6d5d8/3 HTTP/1.1" 200 -
+2024-09-13 10:25:56 - INFO - Sending Waypoint for 66e29a0db649065f39d6d601 : {'latitude': 18.566126212943733, 'longitude': 73.77210984507171, 'height': 35}
+2024-09-13 10:25:58 - INFO - 127.0.0.1 - - [13/Sep/2024 10:25:58] "GET /devices/66e29a0db649065f39d6d601/3 HTTP/1.1" 200 -
+2024-09-13 04:58:50 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-13 04:58:50 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-13 04:58:50 - INFO -  * Restarting with stat
+2024-09-13 04:58:50 - WARNING -  * Debugger is active!
+2024-09-13 04:58:50 - INFO -  * Debugger PIN: 699-265-830
+2024-09-13 05:00:28 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-13 05:00:28 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-13 05:00:28 - INFO -  * Restarting with stat
+2024-09-13 05:00:28 - WARNING -  * Debugger is active!
+2024-09-13 05:00:28 - INFO -  * Debugger PIN: 699-265-830
+2024-09-13 05:12:51 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-13 05:12:51 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-13 05:12:51 - INFO -  * Restarting with stat
+2024-09-13 05:12:51 - WARNING -  * Debugger is active!
+2024-09-13 05:12:51 - INFO -  * Debugger PIN: 699-265-830
+2024-09-13 05:14:53 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-13 05:14:53 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-13 05:14:53 - INFO -  * Restarting with stat
+2024-09-13 05:14:53 - WARNING -  * Debugger is active!
+2024-09-13 05:14:53 - INFO -  * Debugger PIN: 699-265-830
+2024-09-13 05:16:24 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-13 05:16:24 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-13 05:16:24 - INFO -  * Restarting with stat
+2024-09-13 05:16:24 - WARNING -  * Debugger is active!
+2024-09-13 05:16:24 - INFO -  * Debugger PIN: 699-265-830
+2024-09-13 05:17:43 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-13 05:17:43 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-13 05:17:43 - INFO -  * Restarting with stat
+2024-09-13 05:17:43 - WARNING -  * Debugger is active!
+2024-09-13 05:17:43 - INFO -  * Debugger PIN: 699-265-830
+2024-09-13 05:26:26 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-13 05:26:26 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-13 05:26:26 - INFO -  * Restarting with stat
+2024-09-13 05:26:27 - WARNING -  * Debugger is active!
+2024-09-13 05:26:27 - INFO -  * Debugger PIN: 699-265-830
+2024-09-13 12:22:01 - DEBUG - Using selector: EpollSelector

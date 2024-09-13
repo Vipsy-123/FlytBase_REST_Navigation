@@ -3892,3 +3892,66 @@ KeyboardInterrupt
 2024-09-12 18:11:18 - INFO - (<MQTTErrorCode.MQTT_ERR_SUCCESS: 0>, 11)
 2024-09-12 18:11:33 - INFO - Goto Waypoint completed - 66682685365372daee8facec/66e29a0db649065f39d6d601/go_to_location_state
 2024-09-12 18:11:33 - INFO - Initiated RTDS for 66e29a0db649065f39d6d601 - (<MQTTErrorCode.MQTT_ERR_SUCCESS: 0>, 12)
+2024-09-12 18:34:21 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-12 18:34:21 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-12 18:34:21 - INFO - Waypoints and delays set successfully.
+2024-09-12 18:34:21 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-12 18:34:21 - DEBUG - Using selector: EpollSelector
+2024-09-12 18:34:21 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-12 18:34:23 - DEBUG - http://127.0.0.1:5000 "GET /devices/66e299a6b649065f39d6d5d8/0 HTTP/1.1" 200 156
+2024-09-12 18:34:23 - INFO - {'device_id': '66e299a6b649065f39d6d5d8', 'waypoint': {'height': 30, 'latitude': 18.567401186240225, 'longitude': 73.77164156403151}}
+2024-09-12 18:34:23 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-12 18:34:25 - DEBUG - http://127.0.0.1:5000 "GET /devices/66e29a0db649065f39d6d601/0 HTTP/1.1" 200 155
+2024-09-12 18:34:25 - INFO - {'device_id': '66e29a0db649065f39d6d601', 'waypoint': {'height': 35, 'latitude': 18.567188585855867, 'longitude': 73.7724513709704}}
+2024-09-12 18:34:25 - INFO - (<MQTTErrorCode.MQTT_ERR_SUCCESS: 0>, 3)
+2024-09-12 18:34:25 - INFO - (<MQTTErrorCode.MQTT_ERR_SUCCESS: 0>, 4)
+2024-09-12 14:20:31 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-12 14:29:59 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-13 10:24:15 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-13 10:24:15 - DEBUG - http://127.0.0.1:5000 "POST /waypoints HTTP/1.1" 200 58
+2024-09-13 10:24:15 - INFO - Waypoints and delays set successfully.
+2024-09-13 10:24:15 - INFO - {'message': 'Waypoints and delays set successfully.'}
+2024-09-13 10:24:15 - DEBUG - Using selector: EpollSelector
+2024-09-13 10:24:15 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-13 10:24:17 - DEBUG - http://127.0.0.1:5000 "GET /devices/66e299a6b649065f39d6d5d8/0 HTTP/1.1" 200 156
+2024-09-13 10:24:17 - INFO - {'device_id': '66e299a6b649065f39d6d5d8', 'waypoint': {'height': 30, 'latitude': 18.567401186240225, 'longitude': 73.77164156403151}}
+2024-09-13 10:24:17 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-13 10:24:19 - DEBUG - http://127.0.0.1:5000 "GET /devices/66e29a0db649065f39d6d601/0 HTTP/1.1" 200 155
+2024-09-13 10:24:19 - INFO - {'device_id': '66e29a0db649065f39d6d601', 'waypoint': {'height': 35, 'latitude': 18.567188585855867, 'longitude': 73.7724513709704}}
+2024-09-13 10:24:19 - INFO - (<MQTTErrorCode.MQTT_ERR_SUCCESS: 0>, 3)
+2024-09-13 10:24:21 - INFO - (<MQTTErrorCode.MQTT_ERR_SUCCESS: 0>, 4)
+2024-09-13 10:25:05 - INFO - Goto Waypoint completed - 66682685365372daee8facec/66e299a6b649065f39d6d5d8/go_to_location_state
+2024-09-13 10:25:06 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-13 10:25:08 - DEBUG - http://127.0.0.1:5000 "GET /devices/66e299a6b649065f39d6d5d8/1 HTTP/1.1" 200 155
+2024-09-13 10:25:08 - INFO - {'device_id': '66e299a6b649065f39d6d5d8', 'waypoint': {'height': 30, 'latitude': 18.56789888415445, 'longitude': 73.77173236517294}}
+2024-09-13 10:25:10 - INFO - (<MQTTErrorCode.MQTT_ERR_SUCCESS: 0>, 5)
+2024-09-13 10:25:13 - INFO - Goto Waypoint completed - 66682685365372daee8facec/66e29a0db649065f39d6d601/go_to_location_state
+2024-09-13 10:25:14 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-13 10:25:16 - DEBUG - http://127.0.0.1:5000 "GET /devices/66e29a0db649065f39d6d601/1 HTTP/1.1" 200 156
+2024-09-13 10:25:16 - INFO - {'device_id': '66e29a0db649065f39d6d601', 'waypoint': {'height': 35, 'latitude': 18.567140020748337, 'longitude': 73.77315097993511}}
+2024-09-13 10:25:18 - INFO - (<MQTTErrorCode.MQTT_ERR_SUCCESS: 0>, 6)
+2024-09-13 10:25:23 - INFO - Goto Waypoint completed - 66682685365372daee8facec/66e299a6b649065f39d6d5d8/go_to_location_state
+2024-09-13 10:25:24 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-13 10:25:26 - DEBUG - http://127.0.0.1:5000 "GET /devices/66e299a6b649065f39d6d5d8/2 HTTP/1.1" 200 155
+2024-09-13 10:25:26 - INFO - {'device_id': '66e299a6b649065f39d6d5d8', 'waypoint': {'height': 30, 'latitude': 18.567978836883235, 'longitude': 73.7721740773291}}
+2024-09-13 10:25:28 - INFO - (<MQTTErrorCode.MQTT_ERR_SUCCESS: 0>, 7)
+2024-09-13 10:25:33 - INFO - Goto Waypoint completed - 66682685365372daee8facec/66e29a0db649065f39d6d601/go_to_location_state
+2024-09-13 10:25:33 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-13 10:25:35 - DEBUG - http://127.0.0.1:5000 "GET /devices/66e29a0db649065f39d6d601/2 HTTP/1.1" 200 154
+2024-09-13 10:25:35 - INFO - {'device_id': '66e29a0db649065f39d6d601', 'waypoint': {'height': 35, 'latitude': 18.56595551156461, 'longitude': 73.7728491523852}}
+2024-09-13 10:25:37 - INFO - (<MQTTErrorCode.MQTT_ERR_SUCCESS: 0>, 8)
+2024-09-13 10:25:41 - INFO - Goto Waypoint completed - 66682685365372daee8facec/66e299a6b649065f39d6d5d8/go_to_location_state
+2024-09-13 10:25:41 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-13 10:25:43 - DEBUG - http://127.0.0.1:5000 "GET /devices/66e299a6b649065f39d6d5d8/3 HTTP/1.1" 200 155
+2024-09-13 10:25:43 - INFO - {'device_id': '66e299a6b649065f39d6d5d8', 'waypoint': {'height': 30, 'latitude': 18.56754219638799, 'longitude': 73.77218376137297}}
+2024-09-13 10:25:45 - INFO - (<MQTTErrorCode.MQTT_ERR_SUCCESS: 0>, 9)
+2024-09-13 10:25:55 - INFO - Goto Waypoint completed - 66682685365372daee8facec/66e29a0db649065f39d6d601/go_to_location_state
+2024-09-13 10:25:56 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:5000
+2024-09-13 10:25:58 - INFO - Goto Waypoint completed - 66682685365372daee8facec/66e299a6b649065f39d6d5d8/go_to_location_state
+2024-09-13 10:25:58 - DEBUG - http://127.0.0.1:5000 "GET /devices/66e29a0db649065f39d6d601/3 HTTP/1.1" 200 156
+2024-09-13 10:25:58 - INFO - {'device_id': '66e29a0db649065f39d6d601', 'waypoint': {'height': 35, 'latitude': 18.566126212943733, 'longitude': 73.77210984507171}}
+2024-09-13 10:25:58 - INFO - Initiated RTDS for 66e299a6b649065f39d6d5d8 - (<MQTTErrorCode.MQTT_ERR_SUCCESS: 0>, 10)
+2024-09-13 10:26:00 - INFO - (<MQTTErrorCode.MQTT_ERR_SUCCESS: 0>, 11)
+2024-09-13 10:26:15 - INFO - Goto Waypoint completed - 66682685365372daee8facec/66e29a0db649065f39d6d601/go_to_location_state
+2024-09-13 10:26:15 - INFO - Initiated RTDS for 66e29a0db649065f39d6d601 - (<MQTTErrorCode.MQTT_ERR_SUCCESS: 0>, 12)
+2024-09-13 12:22:59,246 [DEBUG] Starting new HTTP connection (1): waypoint_server:5000
