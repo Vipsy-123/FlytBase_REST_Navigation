@@ -1,0 +1,18 @@
+FROM python:3.10.12-slim
+
+# Set working directory
+WORKDIR /app
+
+# Create logs directory
+RUN mkdir -p /app/logs  # Create the logs folder under /app
+
+
+# Copy the source code
+COPY ./src/navigation_manager.py /app
+COPY ./requirements.txt /app
+
+# Install dependencies
+RUN pip3 install -r requirements.txt
+
+# Introduce a delay before starting the application
+CMD ["sh", "-c", "sleep 5 && python3 navigation_manager.py"]

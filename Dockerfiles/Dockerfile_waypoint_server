@@ -1,0 +1,16 @@
+FROM python:3.10.12-slim
+
+# Set working directory
+WORKDIR /app
+# Create logs directory
+RUN mkdir -p /logs
+
+# Copy the source code
+COPY ./src/waypoint_server_fastapi.py /app
+COPY ./requirements.txt /app
+
+# Install dependencies
+RUN pip3 install -r requirements.txt
+
+# Run waypoint_server.py (not script1.py as per the name in COPY)
+CMD ["python3", "waypoint_server_fastapi.py"]

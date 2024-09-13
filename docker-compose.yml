@@ -1,0 +1,25 @@
+version: '3'
+services:
+  waypoint_server:
+    build:
+      context: .
+      dockerfile: Dockerfiles/Dockerfile_waypoint_server
+    container_name: waypoint_server_container
+    ports:
+      - "5000:5000"  # Expose the Flask server (adjust if needed)
+    networks:
+      - shared-network
+
+  navigation_manager:
+    build:
+      context: .
+      dockerfile: Dockerfiles/Dockerfile_navigation_manager
+    container_name: navigation_manager_container
+    depends_on:
+      - waypoint_server  # Wait for waypoint_server to be available
+    networks:
+      - shared-network
+
+networks:
+  shared-network:
+    driver: bridge
