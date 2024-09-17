@@ -46,9 +46,12 @@ status = {
 log_file_path = os.path.join('/app/logs', 'navigation_manager.log')
 
 logging.basicConfig(
-    filename=log_file_path,
     level=logging.DEBUG,
     format="%(asctime)s [%(levelname)s] %(message)s",
+    handlers=[
+        logging.FileHandler(log_file_path),  # Log to a file
+        logging.StreamHandler()  # Also log to the console (terminal)
+    ]
 )
 
 class NavigationManager:
@@ -67,6 +70,8 @@ class NavigationManager:
             print(f"Connected to broker: {result}")
         except Exception as e:
             print(e)
+            while True:# TODO : apply polling Logic 
+                pass
 
         self.client.on_connect = self.on_connect
         self.client.on_message = self.on_message
