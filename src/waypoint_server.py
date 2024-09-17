@@ -1,17 +1,7 @@
 from flask import Flask, jsonify, request
 import time
 import logging
-
-
-'''
-    Waypoint Server : A REST server that takes in waypoints and sends back the next waypoint for a specific drone request.
-    
-    Inputs :  1] A list of n waypoints. A waypoint is defined by latitude, longitude and height.
-              2] A list of n delay times (in seconds)
-                
-    Return : A single waypoint for each drone request. 
-
-'''
+import os
 
 app = Flask(__name__)
 
@@ -19,53 +9,56 @@ devices = []
 waypoints = []
 delays = []
 
+log_filename = os.path.join(os.path.dirname(__file__), "../logs/waypoint_server.log")
+
 # Configure Logger
-logging.basicConfig(filename='../logs/waypoint_server.log',  # Log file name
-                    level=logging.DEBUG,  # Logging level
-                    format='%(asctime)s - %(levelname)s - %(message)s',
-                    datefmt='%Y-%m-%d %H:%M:%S')
+logging.basicConfig(
+    level=logging.DEBUG,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+    datefmt="%Y-%m-%d %H:%M:%S",  # This sets the date format
+    handlers=[
+        logging.FileHandler(log_filename),  # Log to a file
+        logging.StreamHandler()  # Also log to the console (terminal)
+    ]
+)
 
+@app.route('/devices/<string:device_id>/<int:wp_no>', methods=['GET'])
+def get_waypoint(device_id, wp_no):
+    global waypoints, delays
 
-@app.route('/devices/<string:device_id>/<int:wp_no>', methods=['GET'])  # http://127.0.0.1:5000/devices/M7DOCK1/1
-def send_waypoint(device_id,wp_no):
-    # Sleep for a particular delay time and then send waypoint
-    global waypoints,delays
-    
     try:
+        # Ensure the device_id and wp_no are within the valid range
+        if device_id not in waypoints or wp_no >= len(waypoints[device_id]):
+            raise ValueError("Invalid device_id or waypoint number")
+        
         logging.info(f"Sending Waypoint for {device_id} : {waypoints[device_id][wp_no]}")
-        print(f"Sending Waypoint for {device_id} : {waypoints[device_id][wp_no]}")
         time.sleep(int(delays[device_id][wp_no]))
         waypoint = waypoints[device_id][wp_no]
         
-        # Return the waypoint
-        print(device_id)
-        print(waypoint)
-
         return jsonify({
             "device_id": device_id,
             "waypoint": waypoint
         })
     except Exception as e:
-        logging.error(f"An error occurred: {e}")
-        print(f"ERR0R :: {e} !")
-        return jsonify({"Error from Waypoint Server"}), 500
+        logging.error(f"Exception (get_waypoint): {e}")
+        return jsonify({"Exception occured from Waypoint Server": str(e)}), 500
     
-@app.route('/waypoints', methods=['POST'])
+@app.route('/devices', methods=['POST'])
 def setup_devices():
-    # Get JSON data from the request
+    logging.info(f"Received POST request at /devices")
     data = request.json
+    
     global waypoints, delays, devices
-    
-    # Extract waypoints and delays from the data
-    devices = data.get('devices', [])
-    waypoints = data.get('waypoints', [])
-    delays = data.get('delays', [])
-    
-    # print(devices)
-    # print(waypoints)
-    # print(delays)
-    
-    return jsonify({"message": "Waypoints and delays set successfully."})
+    try:
+        devices = data.get('devices', [])
+        waypoints = data.get('waypoints', [])
+        delays = data.get('delays', [])
+        logging.info(f"Success (setup_devices) : Setup Complete: {data}")
+        return {"message": "Waypoints and delays set successfully."}, 200
+    except Exception as e :
+        logging.exception(f"Exception (setup_devices) : {e}")
+        return {"message": f"Setup Failed : {e} "}, 500
+        
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000, debug=True)
+    app.run(debug=True)
